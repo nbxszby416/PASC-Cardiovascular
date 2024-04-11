@@ -1,0 +1,303 @@
+concept_id,concept_name,domain_id,vocabulary_id,concept_code,cluster
+43021615,Anomalous coronary artery with acute angulation of less than 45 degrees relative to aorta,Condition,SNOMED,461420008,anomalous_coronary_artery
+43022037,Anomalous coronary artery without acute angulation of less than 45 degrees relative to aorta,Condition,SNOMED,461421007,anomalous_coronary_artery
+40490968,Aortic arch hypoplasia between subclavian and common carotid arteries,Condition,SNOMED,448645003,aortic_arch_hypoplasia
+40490969,Aortic arch hypoplasia distal to subclavian artery,Condition,SNOMED,448646002,aortic_arch_hypoplasia
+40486184,Aortic arch hypoplasia between carotid arteries,Condition,SNOMED,449232001,aortic_arch_hypoplasia
+40321953,Congenital aortic valve stenosis,Condition,SNOMED,156922005,aortic_valve_stenosis
+4111099,Aortic valve stenosis with insufficiency,Condition,SNOMED,194987006,aortic_valve_stenosis
+43020903,Subneoaortic valve stenosis,Condition,SNOMED,472783006,aortic_valve_stenosis
+35210801,Atrial septal defect,Condition,ICD10CM,Q21.1,atrial_septal_defect
+37402958,"Atrial septal defect, unspecified",Condition,ICD10CM,Q21.10,atrial_septal_defect
+37402959,Secundum atrial septal defect,Condition,ICD10CM,Q21.11,atrial_septal_defect
+37402961,Coronary sinus atrial septal defect,Condition,ICD10CM,Q21.13,atrial_septal_defect
+37402962,Superior sinus venosus atrial septal defect,Condition,ICD10CM,Q21.14,atrial_septal_defect
+37402963,Inferior sinus venosus atrial septal defect,Condition,ICD10CM,Q21.15,atrial_septal_defect
+37402964,"Sinus venosus atrial septal defect, unspecified",Condition,ICD10CM,Q21.16,atrial_septal_defect
+37402965,Other specified atrial septal defect,Condition,ICD10CM,Q21.19,atrial_septal_defect
+4066746,Ebstein's anomaly with atrial septal defect,Condition,SNOMED,17394001,atrial_septal_defect
+434467,Ostium secundum type atrial septal defect,Condition,SNOMED,204315000,atrial_septal_defect
+40403704,Other specified (& [ostium secundum]) atrial septal defect,Condition,SNOMED,204320000,atrial_septal_defect
+4070300,Ostium secundum atrial septal defect NOS,Condition,SNOMED,204321001,atrial_septal_defect
+4100141,Interatrial septal defect NEC,Condition,SNOMED,253367003,atrial_septal_defect
+4101032,Atrial septal defect through coronary sinus orifice,Condition,SNOMED,253371000,atrial_septal_defect
+4100142,Restrictive atrial septal defect with obligatory shunt,Condition,SNOMED,253372007,atrial_septal_defect
+4145157,Atrial septal defect NOS,Condition,SNOMED,268178001,atrial_septal_defect
+4149210,Other specified ostium secundum atrial septal defect,Condition,SNOMED,268179009,atrial_septal_defect
+4103195,Atrial septal defect murmur,Condition,SNOMED,301130004,atrial_septal_defect
+4236884,Congenital atrial septal defect,Condition,SNOMED,405752007,atrial_septal_defect
+43021460,Spontaneous closure of residual atrial septal defect within oval fossa,Condition,SNOMED,461092004,atrial_septal_defect
+4245618,"Atrial septal defect with endocardial cushion defect, partial type",Condition,SNOMED,60732002,atrial_septal_defect
+36716113,"Lymphedema, atrial septal defect, facial changes syndrome",Condition,SNOMED,721978002,atrial_septal_defect
+37110775,"Atrial septal defect, atrioventricular conduction defect syndrome",Condition,SNOMED,725145002,atrial_septal_defect
+44803452,Non-fenestrated atrial septal defect within oval fossa,Condition,SNOMED,7.28E+14,atrial_septal_defect
+44803453,Fenestrated atrial septal defect within oval fossa,Condition,SNOMED,7.28E+14,atrial_septal_defect
+4229749,Pericarditis associated with atrial septal defect,Condition,SNOMED,89222008,atrial_septal_defect
+4316879,Sinus venosus atrial septal defect,Condition,SNOMED,95268002,atrial_septal_defect
+35210802,Atrioventricular septal defect,Condition,ICD10CM,Q21.2,atrioventricular_septal_defect
+37402966,"Atrioventricular septal defect, unspecified as to partial or complete",Condition,ICD10CM,Q21.20,atrioventricular_septal_defect
+37402967,Partial atrioventricular septal defect,Condition,ICD10CM,Q21.21,atrioventricular_septal_defect
+37402968,Transitional atrioventricular septal defect,Condition,ICD10CM,Q21.22,atrioventricular_septal_defect
+37402969,Complete atrioventricular septal defect,Condition,ICD10CM,Q21.23,atrioventricular_septal_defect
+4101170,Atrioventricular septal defect - ventricular component,Condition,SNOMED,253417009,atrioventricular_septal_defect
+4101033,Atrioventricular septal defect - isolated atrial component,Condition,SNOMED,253373002,atrioventricular_septal_defect
+4100875,Congenital abnormality of atrioventricular valves in atrioventricular septal defect,Condition,SNOMED,253374008,atrioventricular_septal_defect
+4100152,Atrioventricular septal defect and common atrioventricular junction,Condition,SNOMED,253414002,atrioventricular_septal_defect
+4101484,Atrioventricular septal defect - isolated ventricular component,Condition,SNOMED,253415001,atrioventricular_septal_defect
+4101485,Atrioventricular septal defect: atrial and ventricular components,Condition,SNOMED,253416000,atrioventricular_septal_defect
+4102988,Atrioventricular septal defect - ventricular component under superior bridging leaflet,Condition,SNOMED,253418004,atrioventricular_septal_defect
+4100153,Atrioventricular septal defect with ventricular component under superior bridging leaflet with chords at crest ventricular septum,Condition,SNOMED,253419007,atrioventricular_septal_defect
+4102989,Atrioventricular septal defect with ventricular component under superior bridging leaflet with chords to papillary muscle on right ventricular side septum,Condition,SNOMED,253420001,atrioventricular_septal_defect
+4101486,Atrioventricular septal defect with ventricular component under free floating superior bridging leaflet and chords to papillary muscle at right ventricular free wall,Condition,SNOMED,253421002,atrioventricular_septal_defect
+4101171,Atrioventricular septal defect - ventricular component under inferior bridging leaflet,Condition,SNOMED,253422009,atrioventricular_septal_defect
+4100255,Abnormality of common atrioventricular valve in atrioventricular septal defect,Condition,SNOMED,253428008,atrioventricular_septal_defect
+40481579,Atrioventricular septal defect with common atrioventricular orifice,Condition,SNOMED,444961009,atrioventricular_septal_defect
+40481625,Atrioventricular septal defect with separate atrioventricular orifices,Condition,SNOMED,445002005,atrioventricular_septal_defect
+40482888,Atrioventricular septal defect with ventricular imbalance consisting of dominant left ventricle and hypoplastic right ventricle,Condition,SNOMED,445264002,atrioventricular_septal_defect
+40482926,Atrioventricular septal defect with ventricular imbalance consisting of dominant right ventricle and hypoplastic left ventricle,Condition,SNOMED,445299003,atrioventricular_septal_defect
+40483294,Atrioventricular septal defect with additional muscular ventricular septal defect,Condition,SNOMED,445334007,atrioventricular_septal_defect
+40487550,Atrioventricular septal defect associated with tetralogy of Fallot,Condition,SNOMED,448007000,atrioventricular_septal_defect
+40488396,Atrioventricular septal defect with atrial and ventricular components and separate atrioventricular valves,Condition,SNOMED,448118003,atrioventricular_septal_defect
+40488397,Atrioventricular septal defect with atrioventricular valve regurgitation,Condition,SNOMED,448119006,atrioventricular_septal_defect
+40488467,Atrioventricular septal defect with ventricular component and interchordal shunting under inferior bridging leaflet,Condition,SNOMED,448182006,atrioventricular_septal_defect
+40488468,Atrioventricular septal defect with ventricular component and interchordal shunting under superior bridging leaflet,Condition,SNOMED,448183001,atrioventricular_septal_defect
+40488469,Atrioventricular septal defect with ventricular component and shunting under connecting tongue with separate orifices,Condition,SNOMED,448184007,atrioventricular_septal_defect
+40489423,Atrioventricular septal defect with restrictive ventricular component,Condition,SNOMED,448331000,atrioventricular_septal_defect
+40490947,Gelatinous atrioventricular valve leaflet in atrioventricular septal defect,Condition,SNOMED,448626007,atrioventricular_septal_defect
+40491515,Noncoapting atrioventricular valve leaflet in atrioventricular septal defect,Condition,SNOMED,448777006,atrioventricular_septal_defect
+40491962,Spontaneous closure of atrial component of atrioventricular septal defect,Condition,SNOMED,448814004,atrioventricular_septal_defect
+40491971,Deficiency of atrioventricular valve leaflet in atrioventricular septal defect,Condition,SNOMED,448822006,atrioventricular_septal_defect
+40491986,Thickened atrioventricular valve leaflet in atrioventricular septal defect,Condition,SNOMED,448836001,atrioventricular_septal_defect
+40492470,Atrioventricular septal defect with ventricular component under superior bridging leaflet without chordal attachment to ventricular septal crest,Condition,SNOMED,448919005,atrioventricular_septal_defect
+40492956,Flail atrioventricular valve leaflet in atrioventricular septal defect,Condition,SNOMED,449008001,atrioventricular_septal_defect
+40492960,Fenestration of atrioventricular valve leaflet in atrioventricular septal defect,Condition,SNOMED,449011000,atrioventricular_septal_defect
+40486135,Mass associated with atrioventricular valve leaflet in atrioventricular septal defect,Condition,SNOMED,449189009,atrioventricular_septal_defect
+40486733,Atrioventricular septal defect with ventricular component under inferior bridging leaflet with chords to crest ventricular septum,Condition,SNOMED,449379004,atrioventricular_septal_defect
+40486737,Congenital abnormality of atrioventricular valve leaflet in atrioventricular septal defect,Condition,SNOMED,449382009,atrioventricular_septal_defect
+40486738,Congenital abnormality of atrioventricular valve papillary muscle in atrioventricular septal defect,Condition,SNOMED,449383004,atrioventricular_septal_defect
+40486743,Abnormality of atrioventricular valve leaflet in atrioventricular septal defect,Condition,SNOMED,449388008,atrioventricular_septal_defect
+40487183,Atrioventricular septal defect with atrioventricular valve regurgitation through left septal commissure,Condition,SNOMED,449456004,atrioventricular_septal_defect
+40487184,Atrioventricular septal defect with atrioventricular valve regurgitation through left superior bridging leaflet lateral mural commissure,Condition,SNOMED,449457008,atrioventricular_septal_defect
+40487186,Atrioventricular septal defect with atrioventricular valve regurgitation through left inferior bridging leaflet lateral mural commissure,Condition,SNOMED,449459006,atrioventricular_septal_defect
+40487600,Atrioventricular septal defect with atrioventricular valve regurgitation through right septal commissure,Condition,SNOMED,449490008,atrioventricular_septal_defect
+40487652,Atrioventricular septal defect with atrioventricular valve regurgitation through right anterosuperior inferior mural commissure,Condition,SNOMED,449537006,atrioventricular_septal_defect
+40487653,Atrioventricular septal defect with atrioventricular valve regurgitation through right anterosuperior superior bridging leaflet commissure,Condition,SNOMED,449538001,atrioventricular_septal_defect
+40487654,Atrioventricular septal defect with atrioventricular valve regurgitation through right inferior bridging leaflet inferior mural commissure,Condition,SNOMED,449539009,atrioventricular_septal_defect
+43021064,Aneurysm of patch of atrioventricular septal defect,Condition,SNOMED,459180002,atrioventricular_septal_defect
+43020563,Recurrent atrial component of atrioventricular septal defect after prior cardiovascular surgical procedure,Condition,SNOMED,471279005,atrioventricular_septal_defect
+43020564,Recurrent ventricular component of atrioventricular septal defect after prior cardiovascular surgical procedure,Condition,SNOMED,471280008,atrioventricular_septal_defect
+43020923,Acquired abnormality of atrioventricular (not morphologically mitral or tricuspid) valve associated with atrioventricular septal defect,Condition,SNOMED,472803004,atrioventricular_septal_defect
+43020924,Acquired cardiovascular abnormality associated with atrioventricular septal defect,Condition,SNOMED,472804005,atrioventricular_septal_defect
+44804753,Atrioventricular septal defect with balanced ventricles,Condition,SNOMED,7.60E+14,atrioventricular_septal_defect
+44804754,Atrioventricular septal defect with ventricular imbalance,Condition,SNOMED,7.60E+14,atrioventricular_septal_defect
+35621810,"Atrioventricular septal defect, blepharophimosis, radial and anal defect syndrome",Condition,SNOMED,763066009,atrioventricular_septal_defect
+3654947,Common atrioventricular junction with spontaneous fibrous closure of atrioventricular septal defect,Condition,SNOMED,840495000,atrioventricular_septal_defect
+3654949,"Atrioventricular septal defect, atrial and ventricular components with common atrioventricular valve with unbalanced commitment of valve to left ventricle",Condition,SNOMED,840497008,atrioventricular_septal_defect
+3654965,"Atrioventricular septal defect, atrial and ventricular components with common atrioventricular valve with unbalanced commitment of valve to right ventricle",Condition,SNOMED,840517009,atrioventricular_septal_defect
+3656102,Intermediate atrioventricular septal defect with atrial and ventricular components and separate atrioventricular valves,Condition,SNOMED,871625003,atrioventricular_septal_defect
+40322366,Bicuspid aortic valve,Condition,SNOMED,156923000,bicuspid_aortic_valve
+40491529,Anterior-posterior orientation of bicuspid aortic valve,Condition,SNOMED,448790004,bicuspid_aortic_valve
+40491967,Right-left orientation of bicuspid aortic valve,Condition,SNOMED,448819009,bicuspid_aortic_valve
+40493451,Tricuspid but functionally bicuspid aortic valve,Condition,SNOMED,449116007,bicuspid_aortic_valve
+36674716,Familial bicuspid aortic valve,Condition,SNOMED,770435005,bicuspid_aortic_valve
+619141,Bicuspid aortic valve-associated aortopathy,Condition,SNOMED,890220003,bicuspid_aortic_valve
+35210833,Coarctation of aorta,Condition,ICD10CM,Q25.1,coarctation_of_aorta
+604884,Recoarctation of aorta following procedure,Condition,SNOMED,1003848008,coarctation_of_aorta
+4030379,Preductal coarctation of aorta,Condition,SNOMED,13867009,coarctation_of_aorta
+4068748,Coarctation of aorta NOS,Condition,SNOMED,204419005,coarctation_of_aorta
+40487972,Recoarctation of aorta,Condition,SNOMED,448067003,coarctation_of_aorta
+40486227,Residual coarctation of aorta,Condition,SNOMED,449271003,coarctation_of_aorta
+42873062,Coarctation of aorta between subclavian artery and common carotid artery,Condition,SNOMED,450312003,coarctation_of_aorta
+42873063,Coarctation of aorta between left common carotid artery and right common carotid artery,Condition,SNOMED,450313008,coarctation_of_aorta
+43021433,Abnormality within thorax due to coarctation of aorta,Condition,SNOMED,460918005,coarctation_of_aorta
+4320938,Pseudocoarctation of aorta,Condition,SNOMED,70602002,coarctation_of_aorta
+43020499,Dextrotransposition of the great arteries,Condition,SNOMED,2.85E+14,dextrotransposition_of_the_great_arteries
+35210792,Double outlet right ventricle,Condition,ICD10CM,Q20.1,double_outlet_right_ventricle
+4070296,"Double outlet right ventricle, unspecified",Condition,SNOMED,204298001,double_outlet_right_ventricle
+40403684,Double outlet right ventricle with subpulmonary ventricular septal defect,Condition,SNOMED,204301002,double_outlet_right_ventricle
+4069092,Double outlet right ventricle NOS,Condition,SNOMED,204302009,double_outlet_right_ventricle
+4102836,Double outlet right ventricle with subaortic ventricular septal defect,Condition,SNOMED,253298003,double_outlet_right_ventricle
+4100121,Double outlet right ventricle with noncommitted ventricular septal defect,Condition,SNOMED,253299006,double_outlet_right_ventricle
+4101011,Double outlet right ventricle with doubly committed ventricular septal defect,Condition,SNOMED,253300003,double_outlet_right_ventricle
+40491893,Double outlet right ventricle with intact ventricular septum,Condition,SNOMED,447284002,double_outlet_right_ventricle
+40490417,Double outlet right ventricle with doubly committed ventricular septal defect and pulmonary stenosis,Condition,SNOMED,448516008,double_outlet_right_ventricle
+42538529,Double outlet right ventricle with subaortic or doubly committed ventricular septal defect without pulmonary stenosis - ventricular septal defect type,Condition,SNOMED,762251008,double_outlet_right_ventricle
+3654955,Double outlet right ventricle with subaortic ventricular septal defect without pulmonary stenosis,Condition,SNOMED,840507004,double_outlet_right_ventricle
+3656077,Double outlet right ventricle with subaortic or doubly committed ventricular septal defect and pulmonary stenosis Fallot type,Condition,SNOMED,871599009,double_outlet_right_ventricle
+3656079,Double outlet right ventricle with subaortic ventricular septal defect and pulmonary stenosis Fallot type,Condition,SNOMED,871601006,double_outlet_right_ventricle
+45553668,Ebstein anomaly,Condition,ICD10,Q22.5,ebstein_anomaly
+35210820,Hypoplastic left heart syndrome,Condition,ICD10CM,Q23.4,hypoplastic_left_heart_syndrome
+40404069,Interrupted aortic arch,Condition,SNOMED,204418002,interrupted_aortic_arch
+4109477,Interrupted aortic arch distal to left subclavian artery,Condition,SNOMED,253681005,interrupted_aortic_arch
+4113296,Interrupted aortic arch between left subclavian and left common carotid artery,Condition,SNOMED,253682003,interrupted_aortic_arch
+4108750,Interrupted aortic arch between left common carotid and brachiocephalic artery,Condition,SNOMED,253683008,interrupted_aortic_arch
+42539142,Common arterial trunk with pulmonary dominance and interrupted aortic arch,Condition,SNOMED,762253006,interrupted_aortic_arch
+35210819,Congenital mitral insufficiency,Condition,ICD10CM,Q23.3,mitral_insufficiency
+320115,Mitral insufficiency and aortic stenosis,Condition,SNOMED,194735004,mitral_insufficiency
+35210818,Congenital mitral stenosis,Condition,ICD10CM,Q23.2,mitral_stenosis
+314368,Mitral stenosis with insufficiency,Condition,SNOMED,194726006,mitral_stenosis
+321041,Mitral stenosis and aortic insufficiency,Condition,SNOMED,194734000,mitral_stenosis
+4070918,"Congenital mitral stenosis, unspecified",Condition,SNOMED,204361000,mitral_stenosis
+4068736,Congenital mitral stenosis NOS,Condition,SNOMED,204364008,mitral_stenosis
+4216144,Congenital supravalvular mitral stenosis,Condition,SNOMED,41514002,mitral_stenosis
+44804848,Congenital subvalvar mitral stenosis,Condition,SNOMED,7.60E+14,mitral_stenosis
+40404391,(Partial anomalous pulmonary venous return) or (anomalous termination of right pulmonary vein),Condition,SNOMED,204459008,partial_anomalous_pulmonary_venous_return
+35210832,Patent ductus arteriosus,Condition,ICD10CM,Q25.0,patent_ductus_arteriosus
+4053893,Patent ductus arteriosus with left-to-right shunt,Condition,SNOMED,125963005,patent_ductus_arteriosus
+4053656,Patent ductus arteriosus with right-to-left shunt,Condition,SNOMED,125964004,patent_ductus_arteriosus
+40458391,Patent ductus arteriosus - persisting type,Condition,SNOMED,253686000,patent_ductus_arteriosus
+36716262,"Patent ductus arteriosus, bicuspid aortic valve, hand anomaly syndrome",Condition,SNOMED,722211006,patent_ductus_arteriosus
+35622008,Congenital patent ductus arteriosus aneurysm,Condition,SNOMED,763316006,patent_ductus_arteriosus
+3656074,Residual patency of arterial duct following patent ductus arteriosus repair,Condition,SNOMED,871596002,patent_ductus_arteriosus
+4101013,Solitary aortic trunk with pulmonary atresia,Condition,SNOMED,253303001,pulmonary_atresia
+4101619,Tetralogy of Fallot with pulmonary atresia,Condition,SNOMED,253513005,pulmonary_atresia
+4112085,Pulmonary atresia with intact ventricular septum,Condition,SNOMED,253590009,pulmonary_atresia
+4109337,Pulmonary atresia with ventricular septal defect,Condition,SNOMED,253591008,pulmonary_atresia
+4112088,Muscular pulmonary atresia,Condition,SNOMED,253594000,pulmonary_atresia
+4112096,Pulmonary atresia with confluent pulmonary arteries,Condition,SNOMED,253624000,pulmonary_atresia
+4108736,Pulmonary atresia with absent pulmonary artery,Condition,SNOMED,253625004,pulmonary_atresia
+40486625,Pulmonary atresia and ventricular septal defect with aorta from left ventricle,Condition,SNOMED,447838003,pulmonary_atresia
+40486626,Pulmonary atresia and ventricular septal defect with aorta from right ventricle,Condition,SNOMED,447839006,pulmonary_atresia
+40488437,Pulmonary atresia with ventricular septal defect of Fallot type,Condition,SNOMED,448155003,pulmonary_atresia
+40490470,Pulmonary atresia,Condition,SNOMED,448564004,pulmonary_atresia
+42538671,Tetralogy of Fallot with pulmonary atresia and systemic-to-pulmonary collateral artery,Condition,SNOMED,762433009,pulmonary_atresia
+35207743,Nonrheumatic pulmonary valve stenosis,Condition,ICD10CM,I37.0,pulmonary_valve_stenosis
+35207745,Nonrheumatic pulmonary valve stenosis with insufficiency,Condition,ICD10CM,I37.2,pulmonary_valve_stenosis
+35210808,Congenital pulmonary valve stenosis,Condition,ICD10CM,Q22.1,pulmonary_valve_stenosis
+4108819,Pulmonary valve stenosis with insufficiency,Condition,SNOMED,195000004,pulmonary_valve_stenosis
+4354070,Pulmonary valve stenosis with doming,Condition,SNOMED,251006007,pulmonary_valve_stenosis
+4354071,Pulmonary valve stenosis with narrow jet,Condition,SNOMED,251007003,pulmonary_valve_stenosis
+43020902,Subneopulmonary valve stenosis,Condition,SNOMED,472782001,pulmonary_valve_stenosis
+45766087,Non-rheumatic pulmonary valve stenosis with regurgitation,Condition,SNOMED,703178004,pulmonary_valve_stenosis
+45766093,Neopulmonary valve stenosis,Condition,SNOMED,703186004,pulmonary_valve_stenosis
+45766097,Postprocedural pulmonary valve stenosis,Condition,SNOMED,703192005,pulmonary_valve_stenosis
+45766180,Prosthetic pulmonary valve stenosis,Condition,SNOMED,703291007,pulmonary_valve_stenosis
+3654792,Mild pulmonary valve stenosis,Condition,SNOMED,838538002,pulmonary_valve_stenosis
+3654793,Moderate pulmonary valve stenosis,Condition,SNOMED,838539005,pulmonary_valve_stenosis
+3654794,Severe pulmonary valve stenosis,Condition,SNOMED,838540007,pulmonary_valve_stenosis
+35210803,Tetralogy of Fallot,Condition,ICD10CM,Q21.3,tetralogy_of_fallot
+40403688,Tetralogy of Fallot: [unspecified] or [ventricular septal defect in] or [dextraposition of aorta in],Condition,SNOMED,204305006,tetralogy_of_fallot
+4069093,Tetralogy of Fallot NOS,Condition,SNOMED,204307003,tetralogy_of_fallot
+4101618,Tetralogy of Fallot with pulmonary stenosis,Condition,SNOMED,253512000,tetralogy_of_fallot
+4149209,"Tetralogy of Fallot, unspecified",Condition,SNOMED,268177006,tetralogy_of_fallot
+4163292,Tetralogy of Fallot with absent pulmonary valve,Condition,SNOMED,399228007,tetralogy_of_fallot
+35624311,"Pulmonary valve agenesis, tetralogy of Fallot, absence of ductus arteriosus syndrome",Condition,SNOMED,766976003,tetralogy_of_fallot
+44821191,Tetralogy of fallot,Condition,ICD9CM,745.2,tetralogy_of_fallot
+35210844,Total anomalous pulmonary venous connection,Condition,ICD10CM,Q26.2,total_anomalous_pulmonary_venous_connection
+43020477,Total anomalous pulmonary venous connection to coronary sinus,Condition,SNOMED,2.86E+14,total_anomalous_pulmonary_venous_connection
+43021862,Total anomalous pulmonary venous connection to hepatic vein,Condition,SNOMED,2.86E+14,total_anomalous_pulmonary_venous_connection
+43020478,Total anomalous pulmonary venous connection to right atrium,Condition,SNOMED,2.86E+14,total_anomalous_pulmonary_venous_connection
+43021863,Total anomalous pulmonary venous connection to superior vena cava,Condition,SNOMED,2.86E+14,total_anomalous_pulmonary_venous_connection
+40486619,Total anomalous pulmonary venous connection of supracardiac type,Condition,SNOMED,447832002,total_anomalous_pulmonary_venous_connection
+40487082,Total anomalous pulmonary venous connection of intracardiac type,Condition,SNOMED,447914003,total_anomalous_pulmonary_venous_connection
+40490508,Total anomalous pulmonary venous connection of infracardiac type,Condition,SNOMED,448599000,total_anomalous_pulmonary_venous_connection
+40491460,Total anomalous pulmonary venous connections of mixed type,Condition,SNOMED,448727008,total_anomalous_pulmonary_venous_connection
+44803374,Total anomalous pulmonary venous connection of mixed type,Condition,SNOMED,7.28E+14,total_anomalous_pulmonary_venous_connection
+432432,Total anomalous pulmonary venous return,Condition,SNOMED,111323005,total_anomalous_pulmonary_venous_return
+4002160,Subdiaphragmatic total anomalous pulmonary venous return,Condition,SNOMED,204456001,total_anomalous_pulmonary_venous_return
+4002161,Supradiaphragmatic total anomalous pulmonary venous return,Condition,SNOMED,204457005,total_anomalous_pulmonary_venous_return
+4002162,Total anomalous pulmonary venous return NOS,Condition,SNOMED,204458000,total_anomalous_pulmonary_venous_return
+40321952,Tricuspid atresia,Condition,SNOMED,156921003,tricuspid_atresia
+312728,Congenital tricuspid atresia and stenosis,Condition,SNOMED,204354004,tricuspid_atresia
+4069181,Congenital tricuspid atresia or stenosis NOS,Condition,SNOMED,204356002,tricuspid_atresia
+3656128,Tricuspid atresia with absent right atrioventricular connection,Condition,SNOMED,871655005,tricuspid_atresia
+44821192,"Tricuspid atresia and stenosis, congenital",Condition,ICD9CM,746.1,tricuspid_atresia
+4006983,"Truncus arteriosus, Edwards' type IV",Condition,SNOMED,111319002,truncus_arteriosus
+40403673,(Persistent truncus arteriosus) or (Truncus arteriosus),Condition,SNOMED,204292000,truncus_arteriosus
+40403991,(Right hypoplastic heart syndrome) or (pseudotruncus arteriosus),Condition,SNOMED,204348000,truncus_arteriosus
+40567658,Persistent truncus arteriosus,Condition,SNOMED,394525006,truncus_arteriosus
+43021339,Abscess of wall of truncus arteriosus,Condition,SNOMED,460619000,truncus_arteriosus
+441950,Common arterial trunk (truncus arteriosus),Condition,SNOMED,61959006,truncus_arteriosus
+35207692,Ventricular septal defect as current complication following acute myocardial infarction,Condition,ICD10CM,I23.2,ventricular_septal_defect
+35210800,Ventricular septal defect,Condition,ICD10CM,Q21.0,ventricular_septal_defect
+4033322,Traumatic interventricular septal defect,Condition,SNOMED,109379000,ventricular_septal_defect
+4033446,Supracristal ventricular septal defect,Condition,SNOMED,109427000,ventricular_septal_defect
+4031264,Perimembranous ventricular septal defect,Condition,SNOMED,109428005,ventricular_septal_defect
+4048082,Spontaneous closure of ventricular septal defect,Condition,SNOMED,123714004,ventricular_septal_defect
+4048664,"Ventricular septal defect, repaired",Condition,SNOMED,123715003,ventricular_septal_defect
+40321944,(Ventricular septal defect) or (Eisenmenger defect),Condition,SNOMED,156914003,ventricular_septal_defect
+40398894,Post-infarction ventricular septal defect,Condition,SNOMED,194864004,ventricular_septal_defect
+4069094,"Ventricular septal defect, unspecified",Condition,SNOMED,204309000,ventricular_septal_defect
+40403693,Interventricular septal defect,Condition,SNOMED,204310005,ventricular_septal_defect
+4070298,Ventricular septal defect between left ventricle and right atrium,Condition,SNOMED,204312002,ventricular_septal_defect
+4068731,Other specified ventricular septal defect,Condition,SNOMED,204313007,ventricular_septal_defect
+4069095,Ventricular septal defect NOS,Condition,SNOMED,204314001,ventricular_septal_defect
+4069177,Common atrioventricular-type ventricular septal defect,Condition,SNOMED,204330009,ventricular_septal_defect
+4101620,Ventricular septal defect in Fallot's tetralogy,Condition,SNOMED,253515003,ventricular_septal_defect
+4101331,Doubly committed subarterial ventricular septal defect with muscular posterior inferior rim,Condition,SNOMED,253570000,ventricular_septal_defect
+4100398,Multiple ventricular septal defects,Condition,SNOMED,253550006,ventricular_septal_defect
+4101630,Restrictive ventricular septal defect,Condition,SNOMED,253551005,ventricular_septal_defect
+4103138,Perimembranous ventricular septal defect with extension to right ventricular inlet,Condition,SNOMED,253552003,ventricular_septal_defect
+4101631,Perimembranous ventricular septal defect with extension to right ventricular trabecular component,Condition,SNOMED,253553008,ventricular_septal_defect
+4101632,Perimembranous ventricular septal defect with extension to right ventricular outlet,Condition,SNOMED,253554002,ventricular_septal_defect
+4101327,Perimembranous ventricular septal defect with extension to all right ventricular components,Condition,SNOMED,253555001,ventricular_septal_defect
+4103139,Ventricular septal defect with malaligned outlet septum to right,Condition,SNOMED,253556000,ventricular_septal_defect
+4101328,Ventricular septal defect with malaligned outlet septum to right overriding aortic valve,Condition,SNOMED,253557009,ventricular_septal_defect
+4100399,Ventricular septal defect with malaligned outlet septum to right overriding pulmonary valve,Condition,SNOMED,253558004,ventricular_septal_defect
+4103140,Ventricular septal defect with malaligned outlet septum to left,Condition,SNOMED,253559007,ventricular_septal_defect
+4103141,Ventricular septal defect with malaligned outlet septum to left overriding aortic valve,Condition,SNOMED,253560002,ventricular_septal_defect
+4100400,Ventricular septal defect with malaligned outlet septum to left overriding pulmonary valve,Condition,SNOMED,253561003,ventricular_septal_defect
+4101633,Ventricular septal defect with absent outlet septum and overriding truncal valve,Condition,SNOMED,253562005,ventricular_septal_defect
+4100401,Muscular ventricular septal defect in inlet septum,Condition,SNOMED,253563000,ventricular_septal_defect
+4103143,Muscular ventricular septal defect in central trabecular septum,Condition,SNOMED,253564006,ventricular_septal_defect
+4100402,Muscular ventricular septal defect in apical trabecular septum,Condition,SNOMED,253565007,ventricular_septal_defect
+4101329,Muscular ventricular septal defect in marginal septum,Condition,SNOMED,253566008,ventricular_septal_defect
+4100403,Muscular ventricular septal defect in outlet septum,Condition,SNOMED,253567004,ventricular_septal_defect
+4100404,Doubly committed subarterial ventricular septal defect,Condition,SNOMED,253568009,ventricular_septal_defect
+4101330,Doubly committed subarterial ventricular septal defect with membranous septum extension,Condition,SNOMED,253569001,ventricular_septal_defect
+4101634,Giant ventricular septal defect,Condition,SNOMED,253571001,ventricular_septal_defect
+4188636,Non-restrictive ventricular septal defect,Condition,SNOMED,373131000,ventricular_septal_defect
+40486042,Ventricular septal defect with anterior malaligned outlet septum with overriding pulmonary valve,Condition,SNOMED,447670001,ventricular_septal_defect
+40486044,Ventricular septal defect with posterior malaligned outlet septum with overriding aortic valve,Condition,SNOMED,447671002,ventricular_septal_defect
+40486045,Ventricular septal defect with posterior malaligned outlet septum with overriding pulmonary valve,Condition,SNOMED,447672009,ventricular_septal_defect
+40486073,Ventricular septal defect with anterior malaligned outlet septum with overriding aortic valve,Condition,SNOMED,447698003,ventricular_septal_defect
+40486558,Spontaneous reduction in size of ventricular septal defect,Condition,SNOMED,447778004,ventricular_septal_defect
+40487013,Ventricular septal defect of inlet of right aspect of ventricular septum,Condition,SNOMED,447852001,ventricular_septal_defect
+40487476,Residual ventricular septal defect,Condition,SNOMED,447941008,ventricular_septal_defect
+40487967,Ventricular septal defect with malaligned outlet septum,Condition,SNOMED,448062009,ventricular_septal_defect
+40489971,Absent pulmonary valve syndrome with ventricular septal defect of non Fallot type,Condition,SNOMED,448475002,ventricular_septal_defect
+40491519,Ventricular septal defect with absent outlet septum and overriding truncal valve with extension of membranous septum,Condition,SNOMED,448780007,ventricular_septal_defect
+40491976,Ventricular septal defect with absent outlet septum and overriding truncal valve with inferior muscular rim,Condition,SNOMED,448827000,ventricular_septal_defect
+40492025,Subaortic stenosis due to restrictive ventricular septal defect in functionally univentricular heart,Condition,SNOMED,448871001,ventricular_septal_defect
+40492030,Subarterial ventricular septal defect,Condition,SNOMED,448876006,ventricular_septal_defect
+40493519,Doubly committed ventricular septal defect in double outlet ventriculoarterial connection,Condition,SNOMED,449178002,ventricular_septal_defect
+40486136,Muscular ventricular septal defect in trabecular septum,Condition,SNOMED,449190000,ventricular_septal_defect
+40486740,Confluent muscular ventricular septal defect,Condition,SNOMED,449385006,ventricular_septal_defect
+40487615,Spontaneous reduction in size of ventricular septal defect due to prolapse of cusp of aortic valve,Condition,SNOMED,449503003,ventricular_septal_defect
+40487638,Spontaneous reduction in size of ventricular septal defect due to accessory tissue of atrioventricular valve,Condition,SNOMED,449524008,ventricular_septal_defect
+40487639,Spontaneous reduction in size of ventricular septal defect due to fibromuscular reaction,Condition,SNOMED,449525009,ventricular_septal_defect
+40487640,Spontaneous reduction in size of ventricular septal defect due to tissue of membranous septum,Condition,SNOMED,449526005,ventricular_septal_defect
+43021050,Abscess at site of ventricular septal defect,Condition,SNOMED,459161004,ventricular_septal_defect
+43021058,Infective endocarditis at site of ventricular septal defect,Condition,SNOMED,459172009,ventricular_septal_defect
+43021065,Aneurysm of patch of ventricular septal defect,Condition,SNOMED,459181003,ventricular_septal_defect
+43021187,Infective endocarditis at site of patch of ventricular septal defect,Condition,SNOMED,460358000,ventricular_septal_defect
+43020890,Acquired excessive restriction of ventricular septal defect,Condition,SNOMED,472770005,ventricular_septal_defect
+43020891,Excessive restriction of ventricular septal defect as complication of procedure,Condition,SNOMED,472771009,ventricular_septal_defect
+43020915,Acquired subaortic stenosis due to restrictive ventricular septal defect associated with functionally univentricular heart,Condition,SNOMED,472795006,ventricular_septal_defect
+43020916,Congenital subaortic stenosis due to restrictive ventricular septal defect associated with functionally univentricular heart,Condition,SNOMED,472796007,ventricular_septal_defect
+43020927,Ventricular septal defect due to and following infective endocarditis,Condition,SNOMED,472807003,ventricular_septal_defect
+44804776,Two chambered right ventricle with ventricular septal defect above obstruction,Condition,SNOMED,7.60E+14,ventricular_septal_defect
+44804777,Two chambered right ventricle with ventricular septal defect below obstruction,Condition,SNOMED,7.60E+14,ventricular_septal_defect
+44813207,Two chambered right ventricle with ventricular septal defect above and below obstruction,Condition,SNOMED,7.60E+14,ventricular_septal_defect
+42538695,Hemodynamically insignificant ventricular septal defect,Condition,SNOMED,762460002,ventricular_septal_defect
+35625532,Congenital ventricular septal defect,Condition,SNOMED,768552007,ventricular_septal_defect
+37311139,Eisenmenger ventricular septal defect,Condition,SNOMED,827078006,ventricular_septal_defect
+3656057,Perimembranous inlet ventricular septal defect with atrioventricular septal malalignment,Condition,SNOMED,871579003,ventricular_septal_defect
+3656059,Inferior muscular trabecular ventricular septal defect,Condition,SNOMED,871581001,ventricular_septal_defect
+3656078,Outlet ventricular septal defect with posteriorly malaligned outlet septum,Condition,SNOMED,871600007,ventricular_septal_defect
+3656080,Perimembranous outlet ventricular septal defect with anteriorly malaligned outlet septum,Condition,SNOMED,871602004,ventricular_septal_defect
+3656081,Transposition of great arteries with concordant atrioventricular connections and ventricular septal defect,Condition,SNOMED,871603009,ventricular_septal_defect
+3656082,Doubly committed juxta-arterial outlet ventricular septal defect with perimembranous extension and posteriorly malaligned outlet septum,Condition,SNOMED,871604003,ventricular_septal_defect
+3656083,Transposition of great arteries with concordant atrioventricular connections and ventricular septal defect and left ventricular outflow tract obstruction,Condition,SNOMED,871605002,ventricular_septal_defect
+3656084,Outlet ventricular septal defect with anteriorly malaligned outlet septum,Condition,SNOMED,871606001,ventricular_septal_defect
+3656085,Doubly committed juxta-arterial outlet ventricular septal defect with perimembranous extension and anteriorly malaligned outlet septum,Condition,SNOMED,871607005,ventricular_septal_defect
+3656086,Doubly committed juxta-arterial outlet ventricular septal defect with anteriorly malaligned outlet septum,Condition,SNOMED,871609008,ventricular_septal_defect
+3656087,Doubly committed juxta-arterial outlet ventricular septal defect with perimembranous extension,Condition,SNOMED,871610003,ventricular_septal_defect
+3656088,Doubly committed juxta-arterial outlet ventricular septal defect with posteriorly malaligned outlet septum,Condition,SNOMED,871611004,ventricular_septal_defect
+3656089,Anterior muscular trabecular ventricular septal defect,Condition,SNOMED,871612006,ventricular_septal_defect
+3656097,Perimembranous inlet ventricular septal defect,Condition,SNOMED,871620008,ventricular_septal_defect
+3656110,Doubly committed juxta-arterial ventricular septal defect with anteriorly malaligned fibrous outlet septum and muscular postero-inferior rim,Condition,SNOMED,871636005,ventricular_septal_defect
+3656121,Perimembranous outlet ventricular septal defect with posteriorly malaligned outlet septum,Condition,SNOMED,871648008,ventricular_septal_defect
+3656130,Muscular ventricular septal defect opening to right ventricular inlet,Condition,SNOMED,871658007,ventricular_septal_defect
+618970,Residual ventricular septal defect following procedure,Condition,SNOMED,880003006,ventricular_septal_defect
+619004,Recurrent ventricular septal defect following procedure,Condition,SNOMED,880062003,ventricular_septal_defect

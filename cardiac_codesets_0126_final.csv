@@ -1,0 +1,1276 @@
+﻿concept_id,concept_code,concept_name,vocabulary_id,cluster
+132685,198985009,Severe pre-eclampsia - not delivered,SNOMED,hypertension
+134414,199000005,Pre-eclampsia or eclampsia with pre-existing hypertension - delivered with postnatal complication,SNOMED,hypertension
+135601,198999008,Pre-eclampsia or eclampsia with pre-existing hypertension - delivered,SNOMED,hypertension
+136743,199002002,Pre-eclampsia or eclampsia with pre-existing hypertension - not delivered,SNOMED,hypertension
+136760,198967002,Transient hypertension of pregnancy - not delivered,SNOMED,hypertension
+137940,198965005,Transient hypertension of pregnancy - delivered,SNOMED,hypertension
+141084,198997005,Pre-eclampsia or eclampsia with pre-existing hypertension,SNOMED,hypertension
+141639,198966006,Transient hypertension of pregnancy - delivered with postnatal complication,SNOMED,hypertension
+312648,1201005,Benign essential hypertension,SNOMED,hypertension
+314090,41114007,Mild pre-eclampsia,SNOMED,hypertension
+314103,198944004,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium - delivered",SNOMED,hypertension
+314423,198946002,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium - not delivered",SNOMED,hypertension
+314958,194785008,Benign secondary hypertension,SNOMED,hypertension
+316866,38341003,Hypertensive disorder,SNOMED,hypertension
+317895,123799005,Renovascular hypertension,SNOMED,hypertension
+317898,78975002,Malignant essential hypertension,SNOMED,hypertension
+318437,89242004,Malignant secondary hypertension,SNOMED,hypertension
+319826,31992008,Secondary hypertension,SNOMED,hypertension
+320128,59621000,Essential hypertension,SNOMED,hypertension
+320456,198945003,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium - delivered with postnatal complication",SNOMED,hypertension
+321074,199005000,"Pre-existing hypertension complicating pregnancy, childbirth and puerperium",SNOMED,hypertension
+321080,198941007,"Hypertension complicating pregnancy, childbirth and the puerperium",SNOMED,hypertension
+321638,198942000,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium",SNOMED,hypertension
+433536,46764007,Severe pre-eclampsia,SNOMED,hypertension
+438490,198983002,Severe pre-eclampsia - delivered,SNOMED,hypertension
+439077,198984008,Severe pre-eclampsia - delivered with postnatal complication,SNOMED,hypertension
+439393,398254007,Pre-eclampsia,SNOMED,hypertension
+441922,237279007,Transient hypertension of pregnancy,SNOMED,hypertension
+443771,28119000,Renal hypertension,SNOMED,hypertension
+762994,4.35E+14,Perioperative hypertension,SNOMED,hypertension
+1569124,I15,Secondary hypertension,ICD10CM,hypertension
+1571652,O13,Gestational [pregnancy-induced] hypertension without significant proteinuria,ICD10CM,hypertension
+1571659,O16,Unspecified maternal hypertension,ICD10CM,hypertension
+4023318,10562009,Malignant hypertension complicating AND/OR reason for care during childbirth,SNOMED,hypertension
+4028741,10725009,Benign hypertension,SNOMED,hypertension
+4028951,23786008,Malignant hypertension complicating AND/OR reason for care during puerperium,SNOMED,hypertension
+4034031,23717007,Benign essential hypertension complicating AND/OR reason for care during pregnancy,SNOMED,hypertension
+4034094,237281009,Moderate proteinuric hypertension of pregnancy,SNOMED,hypertension
+4034095,237282002,Impending eclampsia,SNOMED,hypertension
+4035655,15394000,Toxemia of pregnancy,SNOMED,hypertension
+4048212,123800009,Goldblatt hypertension,SNOMED,hypertension
+4049389,23130000,Paroxysmal hypertension,SNOMED,hypertension
+4057976,198986005,Severe pre-eclampsia with postnatal complication,SNOMED,hypertension
+4058987,19769006,High-renin essential hypertension,SNOMED,hypertension
+4061667,169465000,Hypertension induced by oral contraceptive pill,SNOMED,hypertension
+4062811,198947006,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium with postnatal complication",SNOMED,hypertension
+4062906,198968007,Transient hypertension of pregnancy with postnatal complication,SNOMED,hypertension
+4071202,206596003,Neonatal hypertension,SNOMED,hypertension
+4108213,194791005,Hypertension secondary to drug,SNOMED,hypertension
+4110947,194783001,Malignant secondary renovascular hypertension,SNOMED,hypertension
+4110948,194788005,Hypertension secondary to endocrine disorder,SNOMED,hypertension
+4118910,288250001,Maternal hypertension,SNOMED,hypertension
+4146627,307632004,Non-proteinuric hypertension of pregnancy,SNOMED,hypertension
+4148205,35303009,Benign essential hypertension complicating AND/OR reason for care during puerperium,SNOMED,hypertension
+4159755,371125006,Labile essential hypertension,SNOMED,hypertension
+4162306,29259002,Malignant hypertension complicating AND/OR reason for care during pregnancy,SNOMED,hypertension
+4167358,48146000,Diastolic hypertension,SNOMED,hypertension
+4167493,48194001,Pregnancy-induced hypertension,SNOMED,hypertension
+4179379,429198000,Exertional hypertension,SNOMED,hypertension
+4180283,429457004,Systolic essential hypertension,SNOMED,hypertension
+4199306,52698002,Transient hypertension,SNOMED,hypertension
+4209293,56218007,Systolic hypertension,SNOMED,hypertension
+4215640,71874008,Benign essential hypertension complicating AND/OR reason for care during childbirth,SNOMED,hypertension
+4217486,72022006,Essential hypertension in obstetric context,SNOMED,hypertension
+4218088,81626002,Malignant hypertension in obstetric context,SNOMED,hypertension
+4221991,84094009,Rebound hypertension,SNOMED,hypertension
+4227607,8762007,Chronic hypertension in obstetric context,SNOMED,hypertension
+4242878,59720008,Sustained diastolic hypertension,SNOMED,hypertension
+4253928,74451002,Secondary diastolic hypertension,SNOMED,hypertension
+4262182,397748008,Hypertension with albuminuria,SNOMED,hypertension
+4263067,46481004,Low-renin essential hypertension,SNOMED,hypertension
+4269358,63287004,Benign essential hypertension in obstetric context,SNOMED,hypertension
+4276511,65518004,Labile diastolic hypertension,SNOMED,hypertension
+4279525,367390009,Hypertension in the obstetric context,SNOMED,hypertension
+4289933,70272006,Malignant hypertension,SNOMED,hypertension
+4291933,37618003,Chronic hypertension complicating AND/OR reason for care during pregnancy,SNOMED,hypertension
+4302591,78808002,Essential hypertension complicating AND/OR reason for care during pregnancy,SNOMED,hypertension
+4304837,8218002,Chronic hypertension complicating AND/OR reason for care during childbirth,SNOMED,hypertension
+4321603,9901000,Essential hypertension complicating AND/OR reason for care during puerperium,SNOMED,hypertension
+4322735,427889009,Hypertension associated with transplantation,SNOMED,hypertension
+35207668,I10,Essential (primary) hypertension,ICD10CM,hypertension
+35207678,I15.8,Other secondary hypertension,ICD10CM,hypertension
+35207679,I15.9,"Secondary hypertension, unspecified",ICD10CM,hypertension
+35207832,I67.4,Hypertensive encephalopathy,ICD10CM,hypertension
+35210518,P29.2,Neonatal hypertension,ICD10CM,hypertension
+35622939,765182005,Postpartum pre-eclampsia,SNOMED,hypertension
+36713024,1.62E+16,Labile systemic arterial hypertension,SNOMED,hypertension
+37016726,712832005,Supine hypertension,SNOMED,hypertension
+37200492,I16,Hypertensive crisis,ICD10CM,hypertension
+37200493,I16.0,Hypertensive urgency,ICD10CM,hypertension
+37200494,I16.1,Hypertensive emergency,ICD10CM,hypertension
+37200495,I16.9,"Hypertensive crisis, unspecified",ICD10CM,hypertension
+37200965,O13.4,"Gestational [pregnancy-induced] hypertension without significant proteinuria, complicating childbirth",ICD10CM,hypertension
+37200966,O13.5,"Gestational [pregnancy-induced] hypertension without significant proteinuria, complicating the puerperium",ICD10CM,hypertension
+37200975,O16.4,"Unspecified maternal hypertension, complicating childbirth",ICD10CM,hypertension
+37200976,O16.5,"Unspecified maternal hypertension, complicating the puerperium",ICD10CM,hypertension
+37208172,4.61E+14,Resistant hypertensive disorder,SNOMED,hypertension
+37208293,1.08E+15,Multiple drug intolerant hypertension,SNOMED,hypertension
+40481896,443482000,Hypertensive urgency,SNOMED,hypertension
+42538697,762463000,Diastolic hypertension and systolic hypertension,SNOMED,hypertension
+42538946,8.28E+13,Hypertension complicating pregnancy,SNOMED,hypertension
+42873163,5.41E+11,"Hypertension complicating pregnancy, childbirth and the puerperium, antepartum",SNOMED,hypertension
+43020424,1.33E+14,Hypertensive emergency,SNOMED,hypertension
+43021830,5.50E+12,Postoperative hypertension,SNOMED,hypertension
+44783643,697929007,Intermittent hypertension,SNOMED,hypertension
+44783644,697930002,Labile hypertension due to being in a clinical environment,SNOMED,hypertension
+44784483,698638005,Pregnancy induced hypertension with pulmonary edema,SNOMED,hypertension
+44784484,698640000,Hypertension in the puerperium with pulmonary edema,SNOMED,hypertension
+44809026,8.44E+14,Stage 1 hypertension (NICE - National Institute for Health and Clinical Excellence 2011),SNOMED,hypertension
+44809027,8.44E+14,Severe hypertension (NICE - National Institute for Health and Clinical Excellence 2011),SNOMED,hypertension
+44809548,8.46E+14,Hypertension resistant to drug therapy,SNOMED,hypertension
+44809569,8.46E+14,Stage 2 hypertension (NICE - National Institute for Health and Clinical Excellence 2011),SNOMED,hypertension
+44811110,8.63E+14,Nocturnal hypertension,SNOMED,hypertension
+44811932,9.09E+14,Stage 1 hypertension (NICE 2011) without evidence of end organ damage,SNOMED,hypertension
+44811933,9.09E+14,Stage 1 hypertension (NICE 2011) with evidence of end organ damage,SNOMED,hypertension
+44821019,642.34,"Transient hypertension of pregnancy, postpartum condition or complication",ICD9CM,hypertension
+44821949,401.9,Unspecified essential hypertension,ICD9CM,hypertension
+44822083,642.92,"Unspecified hypertension complicating pregnancy, childbirth, or the puerperium, delivered, with mention of postpartum complication",ICD9CM,hypertension
+44822084,642.93,"Unspecified hypertension complicating pregnancy, childbirth, or the puerperium, antepartum condition or complication",ICD9CM,hypertension
+44823109,401,Malignant essential hypertension,ICD9CM,hypertension
+44823229,642.01,"Benign essential hypertension complicating pregnancy, childbirth, and the puerperium, delivered, with or without mention of antepartum condition",ICD9CM,hypertension
+44823230,642.72,"Pre-eclampsia or eclampsia superimposed on pre-existing hypertension, delivered, with mention of postpartum complication",ICD9CM,hypertension
+44823231,642.9,"Unspecified hypertension complicating pregnancy, childbirth, or the puerperium",ICD9CM,hypertension
+44824236,405.09,Other malignant secondary hypertension,ICD9CM,hypertension
+44824389,642,"Benign essential hypertension complicating pregnancy, childbirth, and the puerperium, unspecified as to episode of care or not applicable",ICD9CM,hypertension
+44824390,642.03,"Benign essential hypertension complicating pregnancy, childbirth, and the puerperium, antepartum condition or complication",ICD9CM,hypertension
+44824395,642.91,"Unspecified hypertension complicating pregnancy, childbirth, or the puerperium, delivered, with or without mention of antepartum condition",ICD9CM,hypertension
+44825592,642.94,"Unspecified hypertension complicating pregnancy, childbirth, or the puerperium, postpartum condition or complication",ICD9CM,hypertension
+44826774,642.3,Transient hypertension of pregnancy,ICD9CM,hypertension
+44827781,405.19,Other benign secondary hypertension,ICD9CM,hypertension
+44827929,642.02,"Benign essential hypertension, complicating pregnancy, childbirth, and the puerperium, delivered, with mention of postpartum complication",ICD9CM,hypertension
+44830210,642.04,"Benign essential hypertension complicating pregnancy, childbirth, and the puerperium, postpartum condition or complication",ICD9CM,hypertension
+44830637,997.91,"Complications affecting other specified body systems, not elsewhere classified, hypertension",ICD9CM,hypertension
+44831233,405,Malignant secondary hypertension,ICD9CM,hypertension
+44831235,405.1,Benign secondary hypertension,ICD9CM,hypertension
+44831376,642,"Benign essential hypertension complicating pregnancy, childbirth, and the puerperium",ICD9CM,hypertension
+44831562,760,Maternal hypertensive disorders affecting fetus or newborn,ICD9CM,hypertension
+44832370,405,Secondary hypertension,ICD9CM,hypertension
+44833556,401,Essential hypertension,ICD9CM,hypertension
+44833713,642,"Hypertension complicating pregnancy, childbirth, and the puerperium",ICD9CM,hypertension
+44833715,642.33,"Transient hypertension of pregnancy, antepartum condition or complication",ICD9CM,hypertension
+44834715,401.1,Benign essential hypertension,ICD9CM,hypertension
+44834876,642.32,"Transient hypertension of pregnancy, delivered, with mention of postpartum complication",ICD9CM,hypertension
+44835925,405.99,Other unspecified secondary hypertension,ICD9CM,hypertension
+44835953,437.2,Hypertensive encephalopathy,ICD9CM,hypertension
+44836076,642.3,"Transient hypertension of pregnancy, unspecified as to episode of care or not applicable",ICD9CM,hypertension
+44836077,642.31,"Transient hypertension of pregnancy, delivered , with or without mention of antepartum condition",ICD9CM,hypertension
+44837098,405.9,Unspecified secondary hypertension,ICD9CM,hypertension
+44837235,642.9,"Unspecified hypertension complicating pregnancy, childbirth, or the puerperium, unspecified as to episode of care or not applicable",ICD9CM,hypertension
+45539091,O13,Gestational [pregnancy-induced] hypertension,ICD10,hypertension
+45548008,I15.8,Other secondary hypertension,ICD10,hypertension
+45548703,O13.2,"Gestational [pregnancy-induced] hypertension without significant proteinuria, second trimester",ICD10CM,hypertension
+45548704,O13.9,"Gestational [pregnancy-induced] hypertension without significant proteinuria, unspecified trimester",ICD10CM,hypertension
+45548707,O16.3,"Unspecified maternal hypertension, third trimester",ICD10CM,hypertension
+45562338,I15,Secondary hypertension,ICD10,hypertension
+45563051,O13.1,"Gestational [pregnancy-induced] hypertension without significant proteinuria, first trimester",ICD10CM,hypertension
+45563052,O13.3,"Gestational [pregnancy-induced] hypertension without significant proteinuria, third trimester",ICD10CM,hypertension
+45563054,O16,Unspecified maternal hypertension,ICD10,hypertension
+45567163,I15.9,"Secondary hypertension, unspecified",ICD10,hypertension
+45572765,O16.1,"Unspecified maternal hypertension, first trimester",ICD10CM,hypertension
+45577702,P29.2,Neonatal hypertension,ICD10,hypertension
+45591453,I10,Essential (primary) hypertension,ICD10,hypertension
+45591479,I67.4,Hypertensive encephalopathy,ICD10,hypertension
+45592191,O16.2,"Unspecified maternal hypertension, second trimester",ICD10CM,hypertension
+45596923,O16.9,"Unspecified maternal hypertension, unspecified trimester",ICD10CM,hypertension
+45605875,I97.3,Postprocedural hypertension,ICD10CM,hypertension
+45757788,4.05E+13,Postpartum pregnancy-induced hypertension,SNOMED,hypertension
+45768449,706882009,Hypertensive crisis,SNOMED,hypertension
+45576614,G90.01,Carotid sinus syncope,ICD10CM,syncope
+766427,R05.4,Cough syncope,ICD10CM,syncope
+35211391,R55,Syncope and collapse,ICD10CM,syncope
+19144,T67.1,Heat syncope,ICD10CM,syncope
+45551426,T67.1XXA,"Heat syncope, initial encounter",ICD10CM,syncope
+45590009,T67.1XXD,"Heat syncope, subsequent encounter",ICD10CM,syncope
+45570653,T67.1XXS,"Heat syncope, sequela",ICD10CM,syncope
+40295289,127380002,Vasovagal syncope,SNOMED,syncope
+40305111,139532000,(Disturbance of consciousness) or (faint/syncope/vasovagal symptom),SNOMED,syncope
+40305113,139534004,Syncope/vasovagal faint,SNOMED,syncope
+40306901,139938005,O/E - collapse - syncope,SNOMED,syncope
+40316723,157724009,Heat syncope &/or collapse,SNOMED,syncope
+40398860,194833001,Syncope anginosa,SNOMED,syncope
+40429620,230663003,Vasodepressor syncope,SNOMED,syncope
+4121811,234163005,Neurally-mediated syncope,SNOMED,syncope
+4120936,234166002,Vasovagal syncope due to immersion,SNOMED,syncope
+4121812,234167006,Situational syncope,SNOMED,syncope
+4121813,234168001,Micturition syncope,SNOMED,syncope
+4119784,234169009,Defecation syncope,SNOMED,syncope
+4125001,234170005,Deglutition syncope,SNOMED,syncope
+4053712,242030003,Syncope due to centrifugal force in flying,SNOMED,syncope
+135360,271594007,Syncope,SNOMED,syncope
+4152505,272030005,Syncope symptom,SNOMED,syncope
+4152074,31457007,Effort syncope,SNOMED,syncope
+4302523,386572005,Psychogenic syncope,SNOMED,syncope
+4142895,427461000,Near syncope,SNOMED,syncope
+4162208,432524006,Syncope due to orthostatic hypotension,SNOMED,syncope
+4229670,438113009,Convulsive syncope,SNOMED,syncope
+40484193,445535007,Witnessed syncope,SNOMED,syncope
+4240219,58077008,Hypotensive syncope,SNOMED,syncope
+36716914,723148003,Syncope due to autonomic failure,SNOMED,syncope
+37312020,788877005,Cardiac syncope,SNOMED,syncope
+4234105,90129003,Tussive syncope,SNOMED,syncope
+35207403,G46.3,Brain stem stroke syndrome,ICD10CM,stroke
+35207404,G46.4,Cerebellar stroke syndrome,ICD10CM,stroke
+43530611,1.03E+14,Paralytic syndrome of both lower limbs as sequela of stroke,SNOMED,stroke
+43530612,1.04E+14,Paralytic syndrome of all four limbs as sequela of stroke,SNOMED,stroke
+35609033,1.08E+15,Haemorrhagic stroke,SNOMED,stroke
+4006295,111297002,Nonparalytic stroke,SNOMED,stroke
+606048,1142056004,Neonatal ischemic stroke,SNOMED,stroke
+4023571,116288000,Paralytic stroke,SNOMED,stroke
+43530669,1.41E+14,Ischemic stroke with coma,SNOMED,stroke
+43530670,1.41E+14,Ischemic stroke without coma,SNOMED,stroke
+40323975,155405006,(Cerebral infarct) or (cerebrovascular accident) or (undefined stroke/CVA) or (stroke NOS),SNOMED,stroke
+761790,1.60E+16,Nonpyogenic cerebral venous thrombosis with stroke,SNOMED,stroke
+761791,1.60E+16,Left cerebellar artery thrombosis with stroke,SNOMED,stroke
+761793,1.60E+16,Left posterior cerebral artery thrombosis with stroke,SNOMED,stroke
+761794,1.60E+16,Right vertebral artery embolism with stroke,SNOMED,stroke
+761795,1.60E+16,Left vertebral artery embolism with stroke,SNOMED,stroke
+761796,1.60E+16,Right carotid artery embolism with stroke,SNOMED,stroke
+761797,1.60E+16,Left carotid artery embolism with stroke,SNOMED,stroke
+761798,1.60E+16,Basilar artery embolism with stroke,SNOMED,stroke
+36716999,1.64E+16,Cerebellar stroke,SNOMED,stroke
+603326,1.69E+16,Cryptogenic stroke,SNOMED,stroke
+40392729,195188006,Cerebral arterial occlusion(&[cerebrovascular accident due to] or [stroke due to]) or (cerebral infarction),SNOMED,stroke
+40392752,195208004,CVA - cerebrovascular accident (& unspecified [& stroke]),SNOMED,stroke
+4111710,195212005,Brainstem stroke syndrome,SNOMED,stroke
+4046363,230713003,Stroke of uncertain pathology,SNOMED,stroke
+4045747,230714009,Anterior circulation stroke of uncertain pathology,SNOMED,stroke
+4045748,230715005,Posterior circulation stroke of uncertain pathology,SNOMED,stroke
+4045755,230739000,Spinal cord stroke,SNOMED,stroke
+3571292,2.49E+14,Stroke/transient ischaemic attack monitoring telephone invitation,SNOMED,stroke
+4099974,25133001,Completed stroke,SNOMED,stroke
+4148904,270883006,Stroke and cerebrovascular accident unspecified,SNOMED,stroke
+4168056,275434003,Stroke in the puerperium,SNOMED,stroke
+4102412,299403002,Stroke test positive,SNOMED,stroke
+4193582,313267000,Stroke NOS,SNOMED,stroke
+762339,3.29E+14,Right anterior cerebral artery embolism with stroke,SNOMED,stroke
+762340,3.29E+14,Left anterior cerebral artery embolism with stroke,SNOMED,stroke
+762345,3.30E+14,Left vertebral artery thrombosis with stroke,SNOMED,stroke
+4159140,371040005,Thrombotic stroke,SNOMED,stroke
+4153352,371041009,Embolic stroke,SNOMED,stroke
+4159152,371121002,Neonatal stroke,SNOMED,stroke
+4189462,373606000,Occlusive stroke,SNOMED,stroke
+4211509,413758000,Cardioembolic stroke,SNOMED,stroke
+4310996,422504002,Ischemic stroke,SNOMED,stroke
+36684840,4.58E+14,Acute stroke,SNOMED,stroke
+44782781,4.86E+13,Hemiplegia and/or hemiparesis following stroke,SNOMED,stroke
+4238315,57981008,Progressing stroke,SNOMED,stroke
+36716757,722929005,Perinatal arterial ischemic stroke,SNOMED,stroke
+37110237,724424009,Cerebral ischemic stroke due to small artery occlusion,SNOMED,stroke
+37110238,724425005,Cerebral ischemic stroke due to intracranial large artery atherosclerosis,SNOMED,stroke
+37110239,724426006,Cerebral ischemic stroke due to extracranial large artery atherosclerosis,SNOMED,stroke
+37110241,724429004,Stroke co-occurrent with migraine,SNOMED,stroke
+37110678,724993002,Cerebral ischemic stroke due to occlusion of extracranial large artery,SNOMED,stroke
+37110679,724994008,Cerebral ischemic stroke due to stenosis of extracranial large artery,SNOMED,stroke
+37110765,725132001,Ischemic stroke without residual deficits,SNOMED,stroke
+37312017,788880006,Cerebral ischemic stroke due to dissection of artery,SNOMED,stroke
+37312016,788881005,Cerebral ischemic stroke due to aortic arch embolism,SNOMED,stroke
+37312015,788882003,Cerebral ischemic stroke due to global hypoperfusion with watershed infarct,SNOMED,stroke
+37312014,788883008,Cerebral ischemic stroke due to hypercoagulable state,SNOMED,stroke
+37312013,788884002,Cerebral ischemic stroke due to subarachnoid hemorrhage,SNOMED,stroke
+43531605,9.90E+12,Occlusion of cerebral artery with stroke,SNOMED,stroke
+45548032,I64,"Stroke, not specified as haemorrhage or infarction",ICD10,stroke
+1569170,I48,Atrial fibrillation and flutter,ICD10CM,atrial_fibrillation
+35207784,I48.0,Paroxysmal atrial fibrillation,ICD10CM,atrial_fibrillation
+35207785,I48.1,Persistent atrial fibrillation,ICD10CM,atrial_fibrillation
+1553751,I48.11,Longstanding persistent atrial fibrillation,ICD10CM,atrial_fibrillation
+1553752,I48.19,Other persistent atrial fibrillation,ICD10CM,atrial_fibrillation
+1569171,I48.2,Chronic atrial fibrillation,ICD10CM,atrial_fibrillation
+1553753,I48.20,"Chronic atrial fibrillation, unspecified",ICD10CM,atrial_fibrillation
+1553754,I48.21,Permanent atrial fibrillation,ICD10CM,atrial_fibrillation
+1569174,I48.9,Unspecified atrial fibrillation and atrial flutter,ICD10CM,atrial_fibrillation
+45576876,I48.91,Unspecified atrial fibrillation,ICD10CM,atrial_fibrillation
+605092,1010405004,Paroxysmal atrial fibrillation with rapid ventricular response,SNOMED,atrial_fibrillation
+42689664,1.07E+15,Atrial fibrillation detected,SNOMED,atrial_fibrillation
+44782442,1.20E+14,Atrial fibrillation with rapid ventricular response,SNOMED,atrial_fibrillation
+40297771,142049000,ECG: atrial fibrillation,SNOMED,atrial_fibrillation
+40323929,155364009,(Atrial fibrillation) or (atrial flutter),SNOMED,atrial_fibrillation
+4108242,195082009,Atrial fibrillation and flutter NOS,SNOMED,atrial_fibrillation
+44788803,1.96E+14,Atrial fibrillation resolved,SNOMED,atrial_fibrillation
+4119601,233910005,Lone atrial fibrillation,SNOMED,atrial_fibrillation
+4119602,233911009,Non-rheumatic atrial fibrillation,SNOMED,atrial_fibrillation
+4117112,300996004,Controlled atrial fibrillation,SNOMED,atrial_fibrillation
+4199501,314208002,Rapid atrial fibrillation,SNOMED,atrial_fibrillation
+4139517,426814001,Transient cerebral ischemia due to atrial fibrillation,SNOMED,atrial_fibrillation
+313217,49436004,Atrial fibrillation,SNOMED,atrial_fibrillation
+42539346,762247006,Preexcited atrial fibrillation,SNOMED,atrial_fibrillation
+35207781,I47.1,Supraventricular tachycardia,ICD10CM,ventricular_arrhythmias
+35207782,I47.2,Ventricular tachycardia,ICD10CM,ventricular_arrhythmias
+37402490,I47.20,"Ventricular tachycardia, unspecified",ICD10CM,ventricular_arrhythmias
+37402504,I47.29,Other ventricular tachycardia,ICD10CM,ventricular_arrhythmias
+40297778,142055005,ECG: ventricular tachycardia,SNOMED,ventricular_arrhythmias
+40323928,155363003,Supraventricular tachycardia (& [paroxysmal] or [paroxysmal artrial]),SNOMED,ventricular_arrhythmias
+40323935,155370003,Ventricular tachycardia (& [paroxysmal]),SNOMED,ventricular_arrhythmias
+609068,1.64E+16,Supraventricular tachycardia following acute myocardial infarction,SNOMED,ventricular_arrhythmias
+4064871,164895002,EKG: ventricular tachycardia,SNOMED,ventricular_arrhythmias
+4108241,195070000,Paroxysmal atrioventricular tachycardia,SNOMED,ventricular_arrhythmias
+4111548,195074009,Paroxysmal supraventricular tachycardia NOS,SNOMED,ventricular_arrhythmias
+40392256,195075005,Ventricular tachycardia (& [paroxysmal]),SNOMED,ventricular_arrhythmias
+4111701,195104006,Supraventricular tachycardia NOS,SNOMED,ventricular_arrhythmias
+44782707,2.14E+13,Nonsustained paroxysmal ventricular tachycardia,SNOMED,ventricular_arrhythmias
+4124699,233897008,Re-entrant atrioventricular tachycardia,SNOMED,ventricular_arrhythmias
+4120085,233900001,Supraventricular tachycardia with functional bundle branch block,SNOMED,ventricular_arrhythmias
+4119599,233905006,Ventricular tachycardia with normal heart,SNOMED,ventricular_arrhythmias
+4124703,233906007,Familial ventricular tachycardia,SNOMED,ventricular_arrhythmias
+4121482,233907003,Induced ventricular tachycardia,SNOMED,ventricular_arrhythmias
+4119600,233908008,Incessant infant ventricular tachycardia,SNOMED,ventricular_arrhythmias
+4121483,233909000,Right ventricular outflow tract ventricular tachycardia,SNOMED,ventricular_arrhythmias
+3554265,2.42E+14,ECG: paroxysmal ventricular tachycardia,SNOMED,ventricular_arrhythmias
+4088348,251156000,Wide QRS ventricular tachycardia,SNOMED,ventricular_arrhythmias
+4088982,251157009,Narrow QRS ventricular tachycardia,SNOMED,ventricular_arrhythmias
+4091900,251158004,"Ventricular tachycardia, monomorphic",SNOMED,ventricular_arrhythmias
+4088349,251159007,"Ventricular tachycardia, polymorphic",SNOMED,ventricular_arrhythmias
+4088501,251160002,"Ventricular tachycardia, polymorphic without Q-T prolongation",SNOMED,ventricular_arrhythmias
+4103295,25569003,Ventricular tachycardia,SNOMED,ventricular_arrhythmias
+40345196,266305002,Supraventricular tachycardia (& [paroxysmal] or [paroxysmal artrial]),SNOMED,ventricular_arrhythmias
+4081675,278482008,Atrioventricular tachycardia,SNOMED,ventricular_arrhythmias
+44791632,2.98E+14,Electrocardiogram shows paroxysmal supraventricular tachycardia,SNOMED,ventricular_arrhythmias
+4233619,405806007,Pulseless ventricular tachycardia,SNOMED,ventricular_arrhythmias
+4305862,418872003,Fascicular ventricular tachycardia,SNOMED,ventricular_arrhythmias
+4303238,419671004,Catecholaminergic polymorphic ventricular tachycardia,SNOMED,ventricular_arrhythmias
+4143407,425856008,ECG: paroxysmal ventricular tachycardia,SNOMED,ventricular_arrhythmias
+4139206,426525004,Sustained ventricular tachycardia,SNOMED,ventricular_arrhythmias
+4145510,426761007,EKG: supraventricular tachycardia,SNOMED,ventricular_arrhythmias
+40484036,442559009,Bundle branch reentrant ventricular tachycardia,SNOMED,ventricular_arrhythmias
+40480274,444658006,Nonsustained ventricular tachycardia,SNOMED,ventricular_arrhythmias
+43022053,462169004,Fetal supraventricular tachycardia with short ventriculoatrial interval,SNOMED,ventricular_arrhythmias
+43021733,462170003,Fetal supraventricular tachycardia with long ventriculoatrial interval,SNOMED,ventricular_arrhythmias
+44782789,5.76E+12,Nonsustained paroxysmal supraventricular tachycardia,SNOMED,ventricular_arrhythmias
+3535316,6.04E+14,Supraventricular tachycardia NOS,SNOMED,ventricular_arrhythmias
+4275423,6456007,Supraventricular tachycardia,SNOMED,ventricular_arrhythmias
+3538201,6.46E+14,Paroxysmal supraventricular tachycardia NOS,SNOMED,ventricular_arrhythmias
+437579,66657009,Paroxysmal ventricular tachycardia,SNOMED,ventricular_arrhythmias
+317893,67198005,Paroxysmal supraventricular tachycardia,SNOMED,ventricular_arrhythmias
+45771051,708124001,Recurrent ventricular tachycardia,SNOMED,ventricular_arrhythmias
+37017188,713420008,EKG ventricular tachycardia polymorphic,SNOMED,ventricular_arrhythmias
+37017189,713421007,EKG ventricular tachycardia monomorphic,SNOMED,ventricular_arrhythmias
+44835941,427,Paroxysmal supraventricular tachycardia,ICD9CM,ventricular_arrhythmias
+44821956,427.1,Paroxysmal ventricular tachycardia,ICD9CM,ventricular_arrhythmias
+1414245,I49.802,Ventricular arrhythmias (machine translation),ICD10CN,ventricular_arrhythmias
+1569172,I48.3,Typical atrial flutter,ICD10CM,atrial_flutter
+1569173,I48.4,Atypical atrial flutter,ICD10CM,atrial_flutter
+45572094,I48.92,Unspecified atrial flutter,ICD10CM,atrial_flutter
+40297772,142050000,ECG: atrial flutter,SNOMED,atrial_flutter
+4065288,164890007,EKG: atrial flutter,SNOMED,atrial_flutter
+4137382,425615007,Chronic atrial flutter,SNOMED,atrial_flutter
+4146580,427665004,Paroxysmal atrial flutter,SNOMED,atrial_flutter
+314665,5370000,Atrial flutter,SNOMED,atrial_flutter
+37395937,715560009,Idiopathic neonatal atrial flutter,SNOMED,atrial_flutter
+40631039,81216002,Atrial flutter-fibrillation,SNOMED,atrial_flutter
+3554255,2.41E+14,ECG: ectopic beats - premature atrial contraction,SNOMED,premature_atrial_or_ventricular_contractions
+3565780,2.42E+14,ECG: premature atrial contractions,SNOMED,premature_atrial_or_ventricular_contractions
+4088984,251170000,Blocked premature atrial contraction,SNOMED,premature_atrial_or_ventricular_contractions
+4109365,284470004,Premature atrial contraction,SNOMED,premature_atrial_or_ventricular_contractions
+3570808,2.41E+14,ECG: ectopic beats - multifocal premature ventricular contractions,SNOMED,premature_atrial_or_ventricular_contractions
+3569528,2.41E+14,ECG: ectopic beats - unifocal premature ventricular contractions,SNOMED,premature_atrial_or_ventricular_contractions
+3554267,2.42E+14,ECG: premature ventricular contractions,SNOMED,premature_atrial_or_ventricular_contractions
+4145524,427581001,ECG: ectopic beats with multifocal premature ventricular contractions,SNOMED,premature_atrial_or_ventricular_contractions
+45571465,B33.23,Viral pericarditis,ICD10CM,pericarditis
+1569153,I30,Acute pericarditis,ICD10CM,pericarditis
+35207715,I30.0,Acute nonspecific idiopathic pericarditis,ICD10CM,pericarditis
+35207716,I30.1,Infective pericarditis,ICD10CM,pericarditis
+35207717,I30.8,Other forms of acute pericarditis,ICD10CM,pericarditis
+35207718,I30.9,"Acute pericarditis, unspecified",ICD10CM,pericarditis
+35207724,I31.9,"Disease of pericardium, unspecified",ICD10CM,pericarditis
+45581156,B33.22,Viral myocarditis,ICD10CM,myocarditis
+1569160,I40,Acute myocarditis,ICD10CM,myocarditis
+35207750,I40.0,Infective myocarditis,ICD10CM,myocarditis
+35207751,I40.1,Isolated myocarditis,ICD10CM,myocarditis
+35207752,I40.8,Other acute myocarditis,ICD10CM,myocarditis
+35207753,I40.9,"Acute myocarditis, unspecified",ICD10CM,myocarditis
+35207798,I51.4,"Myocarditis, unspecified",ICD10CM,myocarditis
+45601038,I50.30,Unspecified diastolic (congestive) heart failure,ICD10CM,heart_failure
+1326609,I50.89,Other heart failure,ICD10CM,heart_failure
+45576878,I50.22,Chronic systolic (congestive) heart failure,ICD10CM,heart_failure
+45543182,I50.21,Acute systolic (congestive) heart failure,ICD10CM,heart_failure
+45533456,I50.32,Chronic diastolic (congestive) heart failure,ICD10CM,heart_failure
+45591469,I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure,ICD10CM,heart_failure
+1326605,I50.814,Right heart failure due to left heart failure,ICD10CM,heart_failure
+1326601,I50.810,"Right heart failure, unspecified",ICD10CM,heart_failure
+1326607,I50.83,High output heart failure,ICD10CM,heart_failure
+35207793,I50.9,"Heart failure, unspecified",ICD10CM,heart_failure
+45567181,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure,ICD10CM,heart_failure
+1326608,I50.84,End stage heart failure,ICD10CM,heart_failure
+45562355,I50.33,Acute on chronic diastolic (congestive) heart failure,ICD10CM,heart_failure
+1326602,I50.811,Acute right heart failure,ICD10CM,heart_failure
+35207792,I50.1,"Left ventricular failure, unspecified",ICD10CM,heart_failure
+45567180,I50.23,Acute on chronic systolic (congestive) heart failure,ICD10CM,heart_failure
+45533457,I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure,ICD10CM,heart_failure
+1326606,I50.82,Biventricular heart failure,ICD10CM,heart_failure
+45557612,I97.131,Postprocedural heart failure following other surgery,ICD10CM,heart_failure
+1326604,I50.813,Acute on chronic right heart failure,ICD10CM,heart_failure
+45586587,I50.20,Unspecified systolic (congestive) heart failure,ICD10CM,heart_failure
+45586588,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure,ICD10CM,heart_failure
+45539118,O29.129,"Cardiac failure due to anesthesia during pregnancy, unspecified trimester",ICD10CM,heart_failure
+45548022,I50.31,Acute diastolic (congestive) heart failure,ICD10CM,heart_failure
+1326603,I50.812,Chronic right heart failure,ICD10CM,heart_failure
+45595583,A36.81,Diphtheritic cardiomyopathy,ICD10CM,cardiomyopathy
+45590849,B33.24,Viral cardiomyopathy,ICD10CM,cardiomyopathy
+35207704,I25.5,Ischemic cardiomyopathy,ICD10CM,cardiomyopathy
+1569161,I42,Cardiomyopathy,ICD10CM,cardiomyopathy
+35207755,I42.0,Dilated cardiomyopathy,ICD10CM,cardiomyopathy
+35207756,I42.1,Obstructive hypertrophic cardiomyopathy,ICD10CM,cardiomyopathy
+35207757,I42.2,Other hypertrophic cardiomyopathy,ICD10CM,cardiomyopathy
+35207760,I42.5,Other restrictive cardiomyopathy,ICD10CM,cardiomyopathy
+35207761,I42.6,Alcoholic cardiomyopathy,ICD10CM,cardiomyopathy
+35207762,I42.7,Cardiomyopathy due to drug and external agent,ICD10CM,cardiomyopathy
+35207764,I42.9,"Cardiomyopathy, unspecified",ICD10CM,cardiomyopathy
+35207765,I43,Cardiomyopathy in diseases classified elsewhere,ICD10CM,cardiomyopathy
+35210386,O90.3,Peripartum cardiomyopathy,ICD10CM,cardiomyopathy
+44782428,1.01E+14,Congestive heart failure due to cardiomyopathy,SNOMED,cardiomyopathy
+46269894,1.09E+15,Cardiomyopathy due to diphtheria,SNOMED,cardiomyopathy
+36712757,1.09E+14,Cardiomyopathy due to hypertension,SNOMED,cardiomyopathy
+42872390,1.11E+11,Nonischemic congestive cardiomyopathy,SNOMED,cardiomyopathy
+4006792,11104006,Dilated cardiomyopathy due to phytanic acid storage disease,SNOMED,cardiomyopathy
+4006292,111285003,Dilated cardiomyopathy due to metabolic disorder,SNOMED,cardiomyopathy
+605666,1137377003,Thyrotoxic cardiomyopathy,SNOMED,cardiomyopathy
+600654,1149109001,Dilated cardiomyopathy due to electrolyte imbalance,SNOMED,cardiomyopathy
+607464,1153452008,Dilated cardiomyopathy due to parasitic myocarditis,SNOMED,cardiomyopathy
+3656667,1.20E+14,Cardiomyopathy due to disease caused by Severe acute respiratory syndrome coronavirus 2,SNOMED,cardiomyopathy
+4129399,12563008,Dilated cardiomyopathy secondary to radiation,SNOMED,cardiomyopathy
+3569133,1.32E+15,Cardiomyopathy caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2),SNOMED,cardiomyopathy
+40321176,15471000,Primary hypertrophic cardiomyopathy,SNOMED,cardiomyopathy
+40323915,155351008,Cardiomyopathy (& [congest. obst.] or [hyper. obst.]) or endomyocardial fibrosis,SNOMED,cardiomyopathy
+40323917,155353006,Cardiomyopathy NOS,SNOMED,cardiomyopathy
+4048268,15544002,Restrictive cardiomyopathy secondary to infiltrations,SNOMED,cardiomyopathy
+36712927,1.56E+16,Congestive heart failure stage C due to ischemic cardiomyopathy,SNOMED,cardiomyopathy
+35615148,1.62E+16,Cardiomyopathy caused by drug,SNOMED,cardiomyopathy
+4037495,16253001,Dilated peripartum cardiomyopathy,SNOMED,cardiomyopathy
+40377124,186812009,Chagas' disease cardiomyopathy,SNOMED,cardiomyopathy
+40392034,193232009,Benign scapuloperoneal muscular dystrophy with cardiomyopathy,SNOMED,cardiomyopathy
+40392036,193234005,Cardiomyopathy in Duchenne muscular dystrophy,SNOMED,cardiomyopathy
+40399390,195015003,Restrictive cardiomyopathy with endomyocardial fibrosis,SNOMED,cardiomyopathy
+40399391,195016002,(Becker's disease) or (obscure African cardiomyopathy),SNOMED,cardiomyopathy
+40399393,195018001,(Congestive obstructive) or (congestive cardiomyopathy),SNOMED,cardiomyopathy
+40399394,195019009,Familial cardiomyopathy,SNOMED,cardiomyopathy
+4108236,195020003,Hypertrophic cardiomyopathy without obstruction,SNOMED,cardiomyopathy
+4108822,195021004,Primary dilated cardiomyopathy,SNOMED,cardiomyopathy
+4111568,195022006,Other primary cardiomyopathy NOS,SNOMED,cardiomyopathy
+4108237,195027000,Cardiomyopathy due to mucopolysaccharidosis,SNOMED,cardiomyopathy
+40399404,195028005,(Heart: [fatty infiltration] or [fatty degeneration]) or (nutritional and metabolic cardiomyopathy NOS),SNOMED,cardiomyopathy
+320746,195029002,Cardiomyopathy associated with another disorder,SNOMED,cardiomyopathy
+4111569,195030007,Cardiomyopathy in Friedreich's ataxia,SNOMED,cardiomyopathy
+4108238,195031006,Cardiomyopathy in myotonic dystrophy,SNOMED,cardiomyopathy
+4108239,195032004,Dystrophic cardiomyopathy,SNOMED,cardiomyopathy
+4108823,195034003,"Cardiomyopathy in diseases EC, NOS",SNOMED,cardiomyopathy
+40392212,195035002,Secondary cardiomyopathy: [dilated] or [NOS],SNOMED,cardiomyopathy
+4108824,195036001,Cardiomyopathy due to drugs and other external agents,SNOMED,cardiomyopathy
+4111542,195037005,Cardiomyopathy NOS,SNOMED,cardiomyopathy
+4023964,1954004,Dilated cardiomyopathy secondary to toxic reaction,SNOMED,cardiomyopathy
+40394149,195574002,[X]Other hypertrophic cardiomyopathy,SNOMED,cardiomyopathy
+40394150,195575001,[X]Other restrictive cardiomyopathy,SNOMED,cardiomyopathy
+40394152,195577009,[X]Cardiomyopathy in infectious and parasitic diseases classified elsewhere,SNOMED,cardiomyopathy
+40394153,195578004,[X]Cardiomyopathy in metabolic diseases classified elsewhere,SNOMED,cardiomyopathy
+40394154,195579007,[X]Cardiomyopathy in nutritional diseases classified elsewhere,SNOMED,cardiomyopathy
+40394155,195580005,[X]Cardiomyopathy in other diseases classified elsewhere,SNOMED,cardiomyopathy
+40395701,199277001,Cardiomyopathy in the puerperium,SNOMED,cardiomyopathy
+40395393,20072003,Idiopathic cardiomyopathy,SNOMED,cardiomyopathy
+4068262,2024009,Dilated cardiomyopathy secondary to metazoal myocarditis,SNOMED,cardiomyopathy
+45757557,2.05E+14,Cardiomyopathy due to viral infection,SNOMED,cardiomyopathy
+4071896,20529002,Secondary dilated cardiomyopathy,SNOMED,cardiomyopathy
+4060405,21430002,Dilated cardiomyopathy due to rheumatoid arthritis,SNOMED,cardiomyopathy
+40418424,2180001,Dilated cardiomyopathy secondary to connective tissue disorder,SNOMED,cardiomyopathy
+4124692,233871002,Congestive obstructive cardiomyopathy,SNOMED,cardiomyopathy
+4124693,233873004,Hypertrophic cardiomyopathy,SNOMED,cardiomyopathy
+40429300,233874005,Secondary dilated cardiomyopathy,SNOMED,cardiomyopathy
+4121474,233875006,Post-myocarditic cardiomyopathy,SNOMED,cardiomyopathy
+4119592,233877003,Restrictive cardiomyopathy without endomyocardial fibrosis,SNOMED,cardiomyopathy
+4119959,233878008,Familial restrictive cardiomyopathy,SNOMED,cardiomyopathy
+4345564,240072005,Benign scapuloperoneal muscular dystrophy with cardiomyopathy,SNOMED,cardiomyopathy
+4345565,240077004,Severe scapuloperoneal muscular dystrophy with cardiomyopathy,SNOMED,cardiomyopathy
+4076799,24584003,Restrictive cardiomyopathy secondary to malignancy,SNOMED,cardiomyopathy
+314967,266242007,Obscure African cardiomyopathy,SNOMED,cardiomyopathy
+4141490,266243002,Nutritional and metabolic cardiomyopathy NOS,SNOMED,cardiomyopathy
+4143970,266244008,Secondary cardiomyopathy NOS,SNOMED,cardiomyopathy
+40345192,266301006,Cardiomyopathy (& [congest. obst.] or [hyper. obst.]) or endomyocardial fibrosis,SNOMED,cardiomyopathy
+4097992,27097002,Danish type familial amyloid cardiomyopathy,SNOMED,cardiomyopathy
+4094188,281170005,Arrhythmogenic right ventricular cardiomyopathy,SNOMED,cardiomyopathy
+4101863,2816000,Dilated cardiomyopathy due to myotonic dystrophy,SNOMED,cardiomyopathy
+4103513,28869005,Dilated cardiomyopathy due to muscular dystrophy,SNOMED,cardiomyopathy
+4104823,29201009,Dilated cardiomyopathy secondary to sensitivity,SNOMED,cardiomyopathy
+40503313,30293000,Obscure cardiomyopathy of Africa,SNOMED,cardiomyopathy
+4147982,30496006,Dilated cardiomyopathy due to viral myocarditis,SNOMED,cardiomyopathy
+4149725,30884007,Restrictive cardiomyopathy secondary to familial storage disease,SNOMED,cardiomyopathy
+4154093,315608004,Cardiomyopathy in Duchenne muscular dystrophy,SNOMED,cardiomyopathy
+4139754,33006007,Restrictive cardiomyopathy secondary to endocardial fibroelastosis,SNOMED,cardiomyopathy
+4141588,33258008,Primary eosinophilic endomyocardial restrictive cardiomyopathy,SNOMED,cardiomyopathy
+4142185,34342000,Dilated cardiomyopathy secondary to deficiency,SNOMED,cardiomyopathy
+4147604,35719004,Dilated cardiomyopathy due to systemic sclerosis,SNOMED,cardiomyopathy
+4261970,35728003,Familial cardiomyopathy,SNOMED,cardiomyopathy
+4269448,36471000,Dilated cardiomyopathy due to systemic lupus erythematosus,SNOMED,cardiomyopathy
+40565497,389995008,Congestive cardiomyopathy,SNOMED,cardiomyopathy
+40565498,389996009,Restrictive cardiomyopathy,SNOMED,cardiomyopathy
+40565499,389997000,Familial cardiomyopathy,SNOMED,cardiomyopathy
+40565500,389998005,Hypertrophic cardiomyopathy,SNOMED,cardiomyopathy
+40565501,389999002,Hypertrophic obstructive cardiomyopathy,SNOMED,cardiomyopathy
+4191606,39041004,Restrictive cardiomyopathy secondary to sarcoidosis,SNOMED,cardiomyopathy
+4215284,39693003,Dilated cardiomyopathy due to granuloma,SNOMED,cardiomyopathy
+4162674,398754006,Restrictive cardiomyopathy with endomyocardial fibrosis,SNOMED,cardiomyopathy
+4163710,399020009,Dilated cardiomyopathy,SNOMED,cardiomyopathy
+4225077,40532006,Dilated cardiomyopathy due to protozoan myocarditis,SNOMED,cardiomyopathy
+4185450,413994008,Dilated cardiomyopathy with connective tissue disorder,SNOMED,cardiomyopathy
+4189147,413995009,Dilated cardiomyopathy due to taurine deficiency,SNOMED,cardiomyopathy
+4190773,415295002,Restrictive cardiomyopathy,SNOMED,cardiomyopathy
+4217551,415509000,Secondary restrictive cardiomyopathy,SNOMED,cardiomyopathy
+44796120,4.19E+14,[X]Other restrictive cardiomyopathy,SNOMED,cardiomyopathy
+4223017,41964001,Hypertrophic cardiomyopathy secondary to neuromuscular disorder,SNOMED,cardiomyopathy
+4172641,42099002,Primary endomyocardial fibrosis restrictive cardiomyopathy,SNOMED,cardiomyopathy
+4144463,426300009,Tachycardia-induced cardiomyopathy,SNOMED,cardiomyopathy
+4145696,426856002,Ischemic congestive cardiomyopathy,SNOMED,cardiomyopathy
+40479589,441541008,Takotsubo cardiomyopathy,SNOMED,cardiomyopathy
+44798302,4.43E+14,[X]Cardiomyopathy in metabolic diseases classified elsewhere,SNOMED,cardiomyopathy
+44798333,4.44E+14,[X]Other hypertrophic cardiomyopathy,SNOMED,cardiomyopathy
+40483296,445336009,Hypertrophic cardiomyopathy associated with another disorder,SNOMED,cardiomyopathy
+4258681,44630002,Dilated cardiomyopathy due to fungal myocarditis,SNOMED,cardiomyopathy
+40487104,447934002,Right ventricular myocardial noncompaction cardiomyopathy,SNOMED,cardiomyopathy
+40487105,447935001,Left ventricular myocardial noncompaction cardiomyopathy,SNOMED,cardiomyopathy
+316428,45227007,Hypertrophic obstructive cardiomyopathy,SNOMED,cardiomyopathy
+43021299,460500001,Histiocytoid mitochondrial cardiomyopathy due to cytochrome aa3 deficiency,SNOMED,cardiomyopathy
+44800404,4.65E+14,[X]Cardiomyopathy in other diseases classified elsewhere,SNOMED,cardiomyopathy
+44800818,4.66E+14,[X]Cardiomyopathy in infectious and parasitic diseases classified elsewhere,SNOMED,cardiomyopathy
+4262911,46696008,Dilated cardiomyopathy due to dermatomyositis,SNOMED,cardiomyopathy
+43020652,471841009,Inflammatory cardiomyopathy,SNOMED,cardiomyopathy
+43021902,471846004,Cardiomyopathy due to neuromuscular disorder,SNOMED,cardiomyopathy
+43020654,471858004,Valvular cardiomyopathy,SNOMED,cardiomyopathy
+43020656,471870000,Pacing-induced cardiomyopathy,SNOMED,cardiomyopathy
+43021903,471875005,Ventricular myocardial noncompaction cardiomyopathy,SNOMED,cardiomyopathy
+43020658,471885006,Hypertrophic cardiomyopathy with genetic marker,SNOMED,cardiomyopathy
+43020659,471890009,Dilated cardiomyopathy with genetic marker,SNOMED,cardiomyopathy
+43020660,472100003,Ischemic dilated cardiomyopathy due to coronary artery disease,SNOMED,cardiomyopathy
+43020666,472315005,Mitochondrial cardiomyopathy,SNOMED,cardiomyopathy
+43021905,472316006,Hypertrophic mitochondrial cardiomyopathy,SNOMED,cardiomyopathy
+43020667,472317002,Histiocytoid mitochondrial cardiomyopathy,SNOMED,cardiomyopathy
+43020668,472318007,Hypertrophic mitochondrial cardiomyopathy associated with cataracts and lactic acidosis,SNOMED,cardiomyopathy
+43020669,472319004,Fatal infantile mitochondrial cardiomyopathy,SNOMED,cardiomyopathy
+43021906,472320005,Maternally inherited mitochondrial cardiomyopathy and myopathy,SNOMED,cardiomyopathy
+43020781,472323007,Fetal cardiomyopathy,SNOMED,cardiomyopathy
+43020782,472324001,Fetal hypertrophic cardiomyopathy,SNOMED,cardiomyopathy
+43020783,472325000,Fetal hypertrophic cardiomyopathy due to twin to twin transfusion syndrome,SNOMED,cardiomyopathy
+43020784,472326004,Fetal hypertrophic cardiomyopathy associated with renal disease,SNOMED,cardiomyopathy
+43020785,472327008,Fetal dilated cardiomyopathy,SNOMED,cardiomyopathy
+4177187,50270004,Dilated cardiomyopathy due to Friedreich's ataxia,SNOMED,cardiomyopathy
+4177188,50275009,Cobalt cardiomyopathy,SNOMED,cardiomyopathy
+4178584,52029003,Primary familial dilated cardiomyopathy,SNOMED,cardiomyopathy
+4203149,53043001,Primary idiopathic dilated cardiomyopathy,SNOMED,cardiomyopathy
+4205593,53322007,Hypertrophic cardiomyopathy secondary to Friedreich's ataxia,SNOMED,cardiomyopathy
+4204856,53703001,Primary eosinophilic endomyocardial cardiomyopathy,SNOMED,cardiomyopathy
+4185379,54830008,Dilated cardiomyopathy due to bacterial myocarditis,SNOMED,cardiomyopathy
+4211517,56941009,Restrictive cardiomyopathy secondary to hemochromatosis,SNOMED,cardiomyopathy
+4240233,58629009,Dilated cardiomyopathy secondary to amyloidosis,SNOMED,cardiomyopathy
+4243983,58911001,Dilated cardiomyopathy secondary to glycogen storage disease,SNOMED,cardiomyopathy
+4247261,6022005,Dilated cardiomyopathy due to sarcoidosis,SNOMED,cardiomyopathy
+4245506,60514000,Dilated cardiomyopathy due to familial storage disease,SNOMED,cardiomyopathy
+3536530,6.22E+14,Other primary cardiomyopathy NOS,SNOMED,cardiomyopathy
+312383,62377009,Postpartum cardiomyopathy,SNOMED,cardiomyopathy
+4270625,63183009,Primary idiopathic hypertrophic cardiomyopathy,SNOMED,cardiomyopathy
+3573369,6.40E+14,"Cardiomyopathy in diseases EC, NOS",SNOMED,cardiomyopathy
+4274635,64041007,Primary idiopathic restrictive cardiomyopathy,SNOMED,cardiomyopathy
+4273369,64615000,Restrictive cardiomyopathy secondary to glycogen storage disease,SNOMED,cardiomyopathy
+4273401,64749001,Dilated cardiomyopathy due to infiltration,SNOMED,cardiomyopathy
+3540607,6.82E+14,Secondary cardiomyopathy NOS,SNOMED,cardiomyopathy
+3540700,6.83E+14,Nutritional and metabolic cardiomyopathy NOS,SNOMED,cardiomyopathy
+315560,68602002,Primary endomyocardial fibrosis cardiomyopathy,SNOMED,cardiomyopathy
+4288868,69609002,Nonobstructive cardiomyopathy,SNOMED,cardiomyopathy
+44783568,699668009,Secondary nonischemic congestive cardiomyopathy,SNOMED,cardiomyopathy
+44784145,700065003,Primary hypertrophic cardiomyopathy,SNOMED,cardiomyopathy
+45765411,702343002,Early onset myopathy with fatal cardiomyopathy,SNOMED,cardiomyopathy
+45765475,702424003,Dilated cardiomyopathy 3B,SNOMED,cardiomyopathy
+45771323,703259006,Mitral valve regurgitation due to cardiomyopathy,SNOMED,cardiomyopathy
+45766167,703275009,Heart failure with reduced ejection fraction due to cardiomyopathy,SNOMED,cardiomyopathy
+45766963,704241002,Fetal hypertrophic cardiomyopathy due to maternal diabetes mellitus,SNOMED,cardiomyopathy
+37017276,713523008,Cardiomyopathy co-occurrent with human immunodeficiency virus infection,SNOMED,cardiomyopathy
+37396000,715655000,Transthyretin related familial amyloid cardiomyopathy,SNOMED,cardiomyopathy
+36713473,717812000,"Congenital cataract, hypertrophic cardiomyopathy, mitochondrial myopathy syndrome",SNOMED,cardiomyopathy
+36713480,717821004,Glycogen storage disease with severe cardiomyopathy due to glycogenin deficiency,SNOMED,cardiomyopathy
+36713761,718713000,Hypertrophic cardiomyopathy with hypotonia and lactic acidosis syndrome,SNOMED,cardiomyopathy
+36714157,719272007,Progressive sensorineural hearing loss and hypertrophic cardiomyopathy syndrome,SNOMED,cardiomyopathy
+36714240,719380003,Microcephalus cardiomyopathy syndrome,SNOMED,cardiomyopathy
+36717720,719451006,Dilated cardiomyopathy with hypergonadotropic hypogonadism syndrome,SNOMED,cardiomyopathy
+36714549,719835006,Wooly hair and palmoplantar keratoderma with dilated cardiomyopathy syndrome,SNOMED,cardiomyopathy
+36717761,719839000,Tubular renal disease with cardiomyopathy syndrome,SNOMED,cardiomyopathy
+36715121,720609003,Cardiomyopathy with cataract and hip spine disease syndrome,SNOMED,cardiomyopathy
+36715122,720610008,Cardiomyopathy and renal anomaly syndrome,SNOMED,cardiomyopathy
+37109990,723993005,Sensorineural deafness with dilated cardiomyopathy syndrome,SNOMED,cardiomyopathy
+37119055,724173009,Maternally inherited cardiomyopathy and hearing loss syndrome,SNOMED,cardiomyopathy
+37110890,725416005,Cirrhotic cardiomyopathy,SNOMED,cardiomyopathy
+4218771,72972005,Dilated cardiomyopathy secondary to drug,SNOMED,cardiomyopathy
+4251051,74249003,Dilated cardiomyopathy due to malignancy,SNOMED,cardiomyopathy
+40630568,74368002,Congestive cardiomyopathy,SNOMED,cardiomyopathy
+3521297,7.50E+14,Takotsubo cardiomyopathy,SNOMED,cardiomyopathy
+35621979,763280005,"Encephalopathy, hypertrophic cardiomyopathy, renal tubular disease syndrome",SNOMED,cardiomyopathy
+3543722,7.66E+14,Tachycardiomyopathy,SNOMED,cardiomyopathy
+35624231,766883006,Familial dilated cardiomyopathy with conduction defect due to LMNA mutation,SNOMED,cardiomyopathy
+4297316,76931005,Restrictive cardiomyopathy secondary to granulomas,SNOMED,cardiomyopathy
+36675150,771478008,Mitochondrial hypertrophic cardiomyopathy with lactic acidosis due to MTO1 deficiency,SNOMED,cardiomyopathy
+36675174,771509001,Hypertrophic cardiomyopathy and renal tubular disease due to mitochondrial DNA mutation,SNOMED,cardiomyopathy
+36675178,771513008,Infantile hypertrophic cardiomyopathy due to MRPL44 deficiency,SNOMED,cardiomyopathy
+37312019,788878000,Diabetic cardiomyopathy,SNOMED,cardiomyopathy
+37312596,789037005,Rheumatic cardiomyopathy,SNOMED,cardiomyopathy
+4195417,79152002,Dilated cardiomyopathy due to neuromuscular disorder,SNOMED,cardiomyopathy
+4197087,79754008,Restrictive cardiomyopathy secondary to amyloidosis,SNOMED,cardiomyopathy
+4219376,8209004,Dilated cardiomyopathy due to hemochromatosis,SNOMED,cardiomyopathy
+318773,83521008,Dilated cardiomyopathy secondary to alcohol,SNOMED,cardiomyopathy
+4222765,83978005,Primary familial hypertrophic cardiomyopathy,SNOMED,cardiomyopathy
+44807892,8.47E+14,Amyloid cardiomyopathy,SNOMED,cardiomyopathy
+4225117,84725008,Restrictive cardiomyopathy due to mucopolysaccharidosis,SNOMED,cardiomyopathy
+4224935,84733009,Dilated cardiomyopathy due to nutritional deficiency,SNOMED,cardiomyopathy
+321319,85898001,Cardiomyopathy,SNOMED,cardiomyopathy
+3655302,860837007,Cardiomyopathy due to connective tissue disease,SNOMED,cardiomyopathy
+3655303,860839005,Cardiomyopathy due to storage disease,SNOMED,cardiomyopathy
+4313305,86194008,Dilated cardiomyopathy due to infectious disease,SNOMED,cardiomyopathy
+4314400,86995005,Dilated cardiomyopathy due to mucopolysaccharidosis,SNOMED,cardiomyopathy
+3656112,871638006,Hypertrophic cardiomyopathy due to glycogen storage disease,SNOMED,cardiomyopathy
+3656113,871639003,Dilated cardiomyopathy due to mitochondrial disease,SNOMED,cardiomyopathy
+3656119,871646007,Infiltrative cardiomyopathy,SNOMED,cardiomyopathy
+3656122,871649000,Hypertrophic cardiomyopathy due to lysosomal disease,SNOMED,cardiomyopathy
+618981,880014009,Dilated cardiomyopathy due to carnitine deficiency,SNOMED,cardiomyopathy
+618983,880038008,Dilated cardiomyopathy due to lysosomal storage disease,SNOMED,cardiomyopathy
+618985,880040003,Arrhythmogenic left ventricular cardiomyopathy,SNOMED,cardiomyopathy
+618987,880042006,Dilated cardiomyopathy caused by anthracycline,SNOMED,cardiomyopathy
+619074,890119003,Hypertrophic cardiomyopathy due to Friedreich ataxia,SNOMED,cardiomyopathy
+619075,890120009,Hypertrophic cardiomyopathy due to neuromuscular disorder,SNOMED,cardiomyopathy
+619076,890121008,Hypertrophic cardiomyopathy due to hyperthyroidism,SNOMED,cardiomyopathy
+619077,890122001,Hypertrophic cardiomyopathy due to disorder,SNOMED,cardiomyopathy
+4232495,89461002,Primary cardiomyopathy,SNOMED,cardiomyopathy
+315833,89600009,Secondary cardiomyopathy,SNOMED,cardiomyopathy
+4234537,90202001,Dilated cardiomyopathy secondary to electrolyte deficiency,SNOMED,cardiomyopathy
+4236332,90828009,Primary restrictive cardiomyopathy,SNOMED,cardiomyopathy
+4240306,91604001,Dilated cardiomyopathy due to polyarteritis nodosa,SNOMED,cardiomyopathy
+4243111,92518001,Canine dilated cardiomyopathy,SNOMED,cardiomyopathy
+4243736,92519009,Canine hypertrophic cardiomyopathy,SNOMED,cardiomyopathy
+4243737,92520003,Canine intergrade cardiomyopathy,SNOMED,cardiomyopathy
+4243112,92521004,Canine restrictive cardiomyopathy,SNOMED,cardiomyopathy
+4246660,93453004,Feline dilated cardiomyopathy,SNOMED,cardiomyopathy
+4247077,93454005,Feline hypertrophic cardiomyopathy,SNOMED,cardiomyopathy
+4244347,93455006,Feline intergrade cardiomyopathy,SNOMED,cardiomyopathy
+4244348,93456007,Feline restrictive cardiomyopathy,SNOMED,cardiomyopathy
+4246673,93558006,Hypertrophic cardiomyopathy secondary to hyperthyroidism,SNOMED,cardiomyopathy
+45591465,I43.0,Cardiomyopathy in infectious and parasitic diseases classified elsewhere,ICD10,cardiomyopathy
+45572090,I43.1,Cardiomyopathy in metabolic diseases,ICD10,cardiomyopathy
+45552791,I43.2,Cardiomyopathy in nutritional diseases,ICD10,cardiomyopathy
+45605797,I43.8,Cardiomyopathy in other diseases classified elsewhere,ICD10,cardiomyopathy
+44833568,425,Cardiomyopathy,ICD9CM,cardiomyopathy
+44832379,425.1,Hypertrophic cardiomyopathy,ICD9CM,cardiomyopathy
+44828979,425.11,Hypertrophic obstructive cardiomyopathy,ICD9CM,cardiomyopathy
+44835938,425.18,Other hypertrophic cardiomyopathy,ICD9CM,cardiomyopathy
+44833569,425.2,Obscure cardiomyopathy of Africa,ICD9CM,cardiomyopathy
+44821955,425.5,Alcoholic cardiomyopathy,ICD9CM,cardiomyopathy
+44835939,425.7,Nutritional and metabolic cardiomyopathy,ICD9CM,cardiomyopathy
+44819710,425.8,Cardiomyopathy in other diseases classified elsewhere,ICD9CM,cardiomyopathy
+44823116,425.9,"Secondary cardiomyopathy, unspecified",ICD9CM,cardiomyopathy
+44822154,674.5,Peripartum cardiomyopathy,ICD9CM,cardiomyopathy
+44836139,674.51,"Peripartum cardiomyopathy, delivered, with or without mention of antepartum condition",ICD9CM,cardiomyopathy
+44819925,674.52,"Peripartum cardiomyopathy, delivered, with mention of postpartum condition",ICD9CM,cardiomyopathy
+44832588,674.53,"Peripartum cardiomyopathy, antepartum condition or complication",ICD9CM,cardiomyopathy
+44825640,674.54,"Peripartum cardiomyopathy, postpartum condition or complication",ICD9CM,cardiomyopathy
+1569168,I46,Cardiac arrest,ICD10CM,cardiac_arrest
+45572091,I46.2,Cardiac arrest due to underlying cardiac condition,ICD10CM,cardiac_arrest
+45538383,I46.8,Cardiac arrest due to other underlying condition,ICD10CM,cardiac_arrest
+35207779,I46.9,"Cardiac arrest, cause unspecified",ICD10CM,cardiac_arrest
+45557611,I97.121,Postprocedural cardiac arrest following other surgery,ICD10CM,cardiac_arrest
+45562426,I97.711,Intraoperative cardiac arrest during other surgery,ICD10CM,cardiac_arrest
+45563037,O03.36,Cardiac arrest following incomplete spontaneous abortion,ICD10CM,cardiac_arrest
+45587266,O03.86,Cardiac arrest following complete or unspecified spontaneous abortion,ICD10CM,cardiac_arrest
+45606530,O04.86,Cardiac arrest following (induced) termination of pregnancy,ICD10CM,cardiac_arrest
+45534161,O07.36,Cardiac arrest following failed attempted termination of pregnancy,ICD10CM,cardiac_arrest
+45563042,O08.81,Cardiac arrest following an ectopic and molar pregnancy,ICD10CM,cardiac_arrest
+45556867,Z86.74,Personal history of sudden cardiac arrest,ICD10CM,cardiac_arrest
+35211392,R57.0,Cardiogenic shock,ICD10CM,cardiogenic_shock
+19324,T81.11,Postprocedural cardiogenic shock,ICD10CM,cardiogenic_shock
+45594886,T81.11XA,"Postprocedural cardiogenic shock, initial encounter",ICD10CM,cardiogenic_shock
+45551473,T81.11XD,"Postprocedural cardiogenic shock, subsequent encounter",ICD10CM,cardiogenic_shock
+45541805,T81.11XS,"Postprocedural cardiogenic shock, sequela",ICD10CM,cardiogenic_shock
+3656846,3.29E+14,Cardiogenic shock following procedure,SNOMED,cardiogenic_shock
+37109913,723861001,Cardiogenic shock unrelated to mechanical complications as current complication following acute myocardial infarction,SNOMED,cardiogenic_shock
+1569147,I26,Pulmonary embolism,ICD10CM,pulmonary_embolism
+1569148,I26.0,Pulmonary embolism with acute cor pulmonale,ICD10CM,pulmonary_embolism
+45572083,I26.01,Septic pulmonary embolism with acute cor pulmonale,ICD10CM,pulmonary_embolism
+45586576,I26.09,Other pulmonary embolism with acute cor pulmonale,ICD10CM,pulmonary_embolism
+1569149,I26.9,Pulmonary embolism without acute cor pulmonale,ICD10CM,pulmonary_embolism
+45605789,I26.90,Septic pulmonary embolism without acute cor pulmonale,ICD10CM,pulmonary_embolism
+1553749,I26.93,Single subsegmental pulmonary embolism without acute cor pulmonale,ICD10CM,pulmonary_embolism
+45572084,I26.99,Other pulmonary embolism without acute cor pulmonale,ICD10CM,pulmonary_embolism
+45533441,I27.82,Chronic pulmonary embolism,ICD10CM,pulmonary_embolism
+43530605,1.00E+12,Pulmonary embolism with pulmonary infarction,SNOMED,pulmonary_embolism
+45757145,1.08E+16,Pulmonary embolism in childbirth,SNOMED,pulmonary_embolism
+40323887,155326007,(Pulmonary embolism) or (pulmonary infarct),SNOMED,pulmonary_embolism
+40319251,156273009,Obstetric pulmonary embolism,SNOMED,pulmonary_embolism
+608954,1.60E+16,Acute cor pulmonale due to septic pulmonary embolism,SNOMED,pulmonary_embolism
+4113502,198855003,Pulmonary embolism following abortive pregnancy,SNOMED,pulmonary_embolism
+442055,200286003,Obstetric air pulmonary embolism,SNOMED,pulmonary_embolism
+4066237,200287007,Obstetric air pulmonary embolism unspecified,SNOMED,pulmonary_embolism
+442049,200288002,Obstetric air pulmonary embolism - delivered,SNOMED,pulmonary_embolism
+442052,200289005,Obstetric air pulmonary embolism - delivered with postnatal complication,SNOMED,pulmonary_embolism
+442051,200290001,Obstetric air pulmonary embolism with antenatal complication,SNOMED,pulmonary_embolism
+442050,200291002,Obstetric air pulmonary embolism with postnatal complication,SNOMED,pulmonary_embolism
+4061579,200292009,Obstetric air pulmonary embolism NOS,SNOMED,pulmonary_embolism
+4062276,200293004,Amniotic fluid pulmonary embolism unspecified,SNOMED,pulmonary_embolism
+442054,200294005,Amniotic fluid pulmonary embolism - delivered,SNOMED,pulmonary_embolism
+432388,200295006,Amniotic fluid pulmonary embolism - delivered with postnatal complication,SNOMED,pulmonary_embolism
+436768,200296007,Amniotic fluid pulmonary embolism with antenatal complication,SNOMED,pulmonary_embolism
+437948,200297003,Amniotic fluid pulmonary embolism with postnatal complication,SNOMED,pulmonary_embolism
+4061580,200298008,Amniotic fluid pulmonary embolism NOS,SNOMED,pulmonary_embolism
+4061581,200300008,Obstetric blood-clot pulmonary embolism unspecified,SNOMED,pulmonary_embolism
+442053,200301007,Obstetric blood-clot pulmonary embolism - delivered,SNOMED,pulmonary_embolism
+434112,200302000,Obstetric blood-clot pulmonary embolism - delivered with postnatal complication,SNOMED,pulmonary_embolism
+433545,200303005,Obstetric blood-clot pulmonary embolism with antenatal complication,SNOMED,pulmonary_embolism
+437060,200304004,Obstetric blood-clot pulmonary embolism with postnatal complication,SNOMED,pulmonary_embolism
+4061583,200305003,Obstetric blood-clot pulmonary embolism NOS,SNOMED,pulmonary_embolism
+40393573,200306002,Obstetric pyemic &/or septic pulmonary embolism,SNOMED,pulmonary_embolism
+4065861,200307006,Obstetric pyemic and septic pulmonary embolism unspecified,SNOMED,pulmonary_embolism
+442420,200308001,Obstetric pyemic and septic pulmonary embolism - delivered,SNOMED,pulmonary_embolism
+442048,200309009,Obstetric pyemic and septic pulmonary embolism - delivered with postnatal complication,SNOMED,pulmonary_embolism
+439380,200310004,Obstetric pyemic and septic pulmonary embolism with antenatal complication,SNOMED,pulmonary_embolism
+439379,200311000,Obstetric pyemic and septic pulmonary embolism with postnatal complication,SNOMED,pulmonary_embolism
+4066240,200312007,Obstetric pyemic and septic pulmonary embolism NOS,SNOMED,pulmonary_embolism
+4061584,200314008,Other obstetric pulmonary embolism unspecified,SNOMED,pulmonary_embolism
+4062278,200315009,Other obstetric pulmonary embolism - delivered,SNOMED,pulmonary_embolism
+4061585,200316005,Other obstetric pulmonary embolism - delivered with postnatal complication,SNOMED,pulmonary_embolism
+4066241,200317001,Other obstetric pulmonary embolism with antenatal complication,SNOMED,pulmonary_embolism
+4065862,200318006,Other obstetric pulmonary embolism with postnatal complication,SNOMED,pulmonary_embolism
+4061586,200319003,Other obstetric pulmonary embolism NOS,SNOMED,pulmonary_embolism
+4061587,200320009,Obstetric pulmonary embolism NOS,SNOMED,pulmonary_embolism
+4065863,200321008,"Obstetric pulmonary embolism NOS, unspecified",SNOMED,pulmonary_embolism
+4062279,200322001,Obstetric pulmonary embolism NOS - delivered,SNOMED,pulmonary_embolism
+4065864,200323006,Obstetric pulmonary embolism NOS - delivered with postnatal complication,SNOMED,pulmonary_embolism
+4061589,200324000,Obstetric pulmonary embolism NOS with antenatal complication,SNOMED,pulmonary_embolism
+4061590,200325004,Obstetric pulmonary embolism NOS with postnatal complication,SNOMED,pulmonary_embolism
+4120091,233936003,Acute massive pulmonary embolism,SNOMED,pulmonary_embolism
+4119607,233937007,Subacute massive pulmonary embolism,SNOMED,pulmonary_embolism
+440477,267284008,Obstetric pyemic and septic pulmonary embolism,SNOMED,pulmonary_embolism
+4145948,267285009,Other obstetric pulmonary embolism,SNOMED,pulmonary_embolism
+3527769,3.40E+14,Recurrent pulmonary embolism,SNOMED,pulmonary_embolism
+40479606,441557008,Septic pulmonary embolism,SNOMED,pulmonary_embolism
+40488144,45015000,"Other obstetrical pulmonary embolism, NEC",SNOMED,pulmonary_embolism
+4174365,50206009,Abortion with pulmonary embolism,SNOMED,pulmonary_embolism
+40605688,50286006,Obstetrical pulmonary embolism,SNOMED,pulmonary_embolism
+4178578,51096002,Legal termination of pregnancy with pulmonary embolism,SNOMED,pulmonary_embolism
+4206453,55589000,Illegal termination of pregnancy with pulmonary embolism,SNOMED,pulmonary_embolism
+4240832,58123006,Failed attempted termination of pregnancy with pulmonary embolism,SNOMED,pulmonary_embolism
+3533935,5.82E+14,Obstetric pyaemic and septic pulmonary embolism NOS,SNOMED,pulmonary_embolism
+3535028,5.99E+14,Obstetric pyaemic and septic pulmonary embolism unspecified,SNOMED,pulmonary_embolism
+43530934,609480009,Induced termination of pregnancy complicated by pulmonary embolism,SNOMED,pulmonary_embolism
+4280067,663008,Pulmonary embolism following molar AND/OR ectopic pregnancy,SNOMED,pulmonary_embolism
+45768439,706870000,Acute pulmonary embolism,SNOMED,pulmonary_embolism
+37016922,713078005,Pulmonary embolism on long-term anticoagulation therapy,SNOMED,pulmonary_embolism
+37109911,723859005,Pulmonary embolism due to and following acute myocardial infarction,SNOMED,pulmonary_embolism
+4219469,82153002,Miscarriage with pulmonary embolism,SNOMED,pulmonary_embolism
+3655209,860680001,Pulmonary embolism due to and following ectopic pregnancy,SNOMED,pulmonary_embolism
+3655210,860681002,Pulmonary embolism due to and following molar pregnancy,SNOMED,pulmonary_embolism
+44819704,415.1,Pulmonary embolism and infarction,ICD9CM,pulmonary_embolism
+44823112,415.11,Iatrogenic pulmonary embolism and infarction,ICD9CM,pulmonary_embolism
+44819706,415.19,Other pulmonary embolism and infarction,ICD9CM,pulmonary_embolism
+44824454,673.8,Other obstetrical pulmonary embolism,ICD9CM,pulmonary_embolism
+44836137,673.8,"Other obstetrical pulmonary embolism, unspecified as to episode of care or not applicable",ICD9CM,pulmonary_embolism
+44819923,673.81,"Other obstetrical pulmonary embolism, delivered, with or without mention of antepartum condition",ICD9CM,pulmonary_embolism
+44830287,673.82,"Other obstetrical pulmonary embolism, delivered, with mention of postpartum complication",ICD9CM,pulmonary_embolism
+44831446,673.83,"Other obstetrical pulmonary embolism, antepartum condition or complication",ICD9CM,pulmonary_embolism
+44825636,673.84,"Other obstetrical pulmonary embolism, postpartum condition or complication",ICD9CM,pulmonary_embolism
+4046884,134399007,Deep vein thrombosis of leg related to air travel,SNOMED,deep_vein_thrombosis
+40319241,156264001,Obstetric venous problems (& [deep vein thrombosis] or [varicose vein]),SNOMED,deep_vein_thrombosis
+40319245,156268003,Antenatal deep vein thrombosis,SNOMED,deep_vein_thrombosis
+40319246,156269006,Postnatal deep vein thrombosis,SNOMED,deep_vein_thrombosis
+35615030,1.57E+16,Acute deep vein thrombosis of right upper limb following procedure,SNOMED,deep_vein_thrombosis
+608831,1.57E+16,Acute deep vein thrombosis of right lower limb following coronary artery bypass graft,SNOMED,deep_vein_thrombosis
+761415,1.57E+16,Acute deep vein thrombosis of right upper limb following coronary artery bypass graft,SNOMED,deep_vein_thrombosis
+608832,1.57E+16,Acute deep vein thrombosis of left lower limb following coronary artery bypass graft,SNOMED,deep_vein_thrombosis
+35615031,1.57E+16,Acute deep vein thrombosis of left upper limb following procedure,SNOMED,deep_vein_thrombosis
+761416,1.57E+16,Acute deep vein thrombosis of left upper limb following coronary artery bypass graft,SNOMED,deep_vein_thrombosis
+761417,1.57E+16,Chronic deep vein thrombosis of right upper limb following procedure,SNOMED,deep_vein_thrombosis
+761418,1.57E+16,Chronic deep vein thrombosis of left upper limb following procedure,SNOMED,deep_vein_thrombosis
+761439,1.57E+16,Chronic deep vein thrombosis of left pelvic vein,SNOMED,deep_vein_thrombosis
+761441,1.57E+16,Chronic deep vein thrombosis of right pelvic vein,SNOMED,deep_vein_thrombosis
+35615034,1.57E+16,Acute deep vein thrombosis of right lower limb following procedure,SNOMED,deep_vein_thrombosis
+761444,1.57E+16,Acute deep vein thrombosis of bilateral lower limbs following coronary artery bypass graft,SNOMED,deep_vein_thrombosis
+35615035,1.57E+16,Acute deep vein thrombosis of left lower limb following procedure,SNOMED,deep_vein_thrombosis
+40393642,195403006,(Deep vein phlebitis and thrombophlebitis of the leg) or (deep vein thrombosis),SNOMED,deep_vein_thrombosis
+4061469,200231004,Antenatal deep vein thrombosis unspecified,SNOMED,deep_vein_thrombosis
+441649,200232006,Antenatal deep vein thrombosis - delivered,SNOMED,deep_vein_thrombosis
+435885,200233001,Antenatal deep vein thrombosis with antenatal complication,SNOMED,deep_vein_thrombosis
+4062262,200234007,Antenatal deep vein thrombosis NOS,SNOMED,deep_vein_thrombosis
+4062263,200236009,Postnatal deep vein thrombosis unspecified,SNOMED,deep_vein_thrombosis
+435031,200237000,Postnatal deep vein thrombosis - delivered with postnatal complication,SNOMED,deep_vein_thrombosis
+4062264,200238005,Postnatal deep vein thrombosis with postnatal complication,SNOMED,deep_vein_thrombosis
+4065759,200239002,Postnatal deep vein thrombosis NOS,SNOMED,deep_vein_thrombosis
+4309333,213220000,Postoperative deep vein thrombosis,SNOMED,deep_vein_thrombosis
+4024219,225999004,At risk of deep vein thrombosis,SNOMED,deep_vein_thrombosis
+4119760,234044007,Iliofemoral deep vein thrombosis,SNOMED,deep_vein_thrombosis
+762007,2.85E+14,Chronic deep vein thrombosis of right upper extremity,SNOMED,deep_vein_thrombosis
+765539,2.85E+14,Chronic deep vein thrombosis of right axillary vein,SNOMED,deep_vein_thrombosis
+37109253,2.85E+14,Bilateral acute deep vein thrombosis of femoral veins,SNOMED,deep_vein_thrombosis
+765152,2.93E+14,Chronic deep vein thrombosis of bilateral iliac veins,SNOMED,deep_vein_thrombosis
+35616025,2.93E+14,Chronic deep vein thrombosis of right iliac vein,SNOMED,deep_vein_thrombosis
+35616026,2.93E+14,Chronic deep vein thrombosis of left iliac vein,SNOMED,deep_vein_thrombosis
+762148,2.93E+14,Acute deep vein thrombosis of bilateral iliac veins,SNOMED,deep_vein_thrombosis
+35616027,2.93E+14,Acute deep vein thrombosis of right iliac vein,SNOMED,deep_vein_thrombosis
+35616028,2.93E+14,Acute deep vein thrombosis of left iliac vein,SNOMED,deep_vein_thrombosis
+40545715,366912000,Deep vein thrombosis of lower limb,SNOMED,deep_vein_thrombosis
+4189004,413956008,Deep vein thrombosis of leg related to intravenous drug use,SNOMED,deep_vein_thrombosis
+40478951,444325005,Bilateral deep vein thrombosis of lower extremities,SNOMED,deep_vein_thrombosis
+435887,49956009,Antepartum deep vein thrombosis,SNOMED,deep_vein_thrombosis
+3529786,5.04E+14,Deep vein thrombosis of peroneal vein,SNOMED,deep_vein_thrombosis
+43531681,6.51E+11,Acute deep vein thrombosis of lower limb,SNOMED,deep_vein_thrombosis
+46271548,709687000,Chronic deep vein thrombosis of pelvic vein,SNOMED,deep_vein_thrombosis
+46271900,710167004,Recurrent deep vein thrombosis,SNOMED,deep_vein_thrombosis
+3655221,860699005,Deep vein thrombosis of lower extremity due to intravenous drug use,SNOMED,deep_vein_thrombosis
+46285904,9.78E+14,Unprovoked deep vein thrombosis,SNOMED,deep_vein_thrombosis
+46285905,9.78E+14,Provoked deep vein thrombosis,SNOMED,deep_vein_thrombosis
+35211263,R00.2,Palpitations,ICD10CM,palpitations
+4010477,102590007,Intermittent palpitations,SNOMED,palpitations
+40303882,139222008,(Palpitations) or (awareness of heartbeat) or (fluttering of heart),SNOMED,palpitations
+40303884,139224009,Palpitations,SNOMED,palpitations
+40303887,139227002,Palpitations NOS,SNOMED,palpitations
+40325667,161965005,(Palpitations) or (awareness of heartbeat) or (fluttering of heart),SNOMED,palpitations
+40325669,161967002,Palpitations,SNOMED,palpitations
+4060059,161970003,Palpitations NOS,SNOMED,palpitations
+44790770,2.40E+14,Irregular palpitations,SNOMED,palpitations
+44790771,2.40E+14,Palpitations - regular,SNOMED,palpitations
+4095613,248648003,Palpitations - rapid,SNOMED,palpitations
+4178485,428919002,Palpitations with regular rhythm,SNOMED,palpitations
+3534586,5.91E+14,Palpitations NOS,SNOMED,palpitations
+315078,80313002,Palpitations,SNOMED,palpitations
+44831589,785.1,Palpitations,ICD9CM,palpitations
+45534424,R07.9,"Chest pain, unspecified",ICD10CM,chest_pain
+35211284,R07.1,Chest pain on breathing,ICD10CM,chest_pain
+45597167,R07.82,Intercostal pain,ICD10CM,chest_pain
+45602002,R07.89,Other chest pain,ICD10CM,chest_pain
+1572194,R07.8,Other chest pain,ICD10CM,chest_pain
+35211285,R07.2,Precordial pain,ICD10CM,chest_pain
+1553755,I80.24,Phlebitis and thrombophlebitis of peroneal vein,ICD10CM,thrombophlebitis
+1553756,I80.241,Phlebitis and thrombophlebitis of right peroneal vein,ICD10CM,thrombophlebitis
+1553757,I80.242,Phlebitis and thrombophlebitis of left peroneal vein,ICD10CM,thrombophlebitis
+1553758,I80.243,"Phlebitis and thrombophlebitis of peroneal vein, bilateral",ICD10CM,thrombophlebitis
+1553759,I80.249,Phlebitis and thrombophlebitis of unspecified peroneal vein,ICD10CM,thrombophlebitis
+1553760,I80.25,Phlebitis and thrombophlebitis of calf muscular vein,ICD10CM,thrombophlebitis
+1553761,I80.251,Phlebitis and thrombophlebitis of right calf muscular vein,ICD10CM,thrombophlebitis
+1553762,I80.252,Phlebitis and thrombophlebitis of left calf muscular vein,ICD10CM,thrombophlebitis
+1553763,I80.253,"Phlebitis and thrombophlebitis of calf muscular vein, bilateral",ICD10CM,thrombophlebitis
+1553764,I80.259,Phlebitis and thrombophlebitis of unspecified calf muscular vein,ICD10CM,thrombophlebitis
+1569339,I80,Phlebitis and thrombophlebitis,ICD10CM,thrombophlebitis
+1569340,I80.0,Phlebitis and thrombophlebitis of superficial vessels of lower extremities,ICD10CM,thrombophlebitis
+1569341,I80.1,Phlebitis and thrombophlebitis of femoral vein,ICD10CM,thrombophlebitis
+1569342,I80.2,Phlebitis and thrombophlebitis of other and unspecified deep vessels of lower extremities,ICD10CM,thrombophlebitis
+1569343,I80.20,Phlebitis and thrombophlebitis of unspecified deep vessels of lower extremities,ICD10CM,thrombophlebitis
+1569344,I80.21,Phlebitis and thrombophlebitis of iliac vein,ICD10CM,thrombophlebitis
+1569345,I80.22,Phlebitis and thrombophlebitis of popliteal vein,ICD10CM,thrombophlebitis
+1569346,I80.23,Phlebitis and thrombophlebitis of tibial vein,ICD10CM,thrombophlebitis
+1569347,I80.29,Phlebitis and thrombophlebitis of other deep vessels of lower extremities,ICD10CM,thrombophlebitis
+1571665,O22.2,Superficial thrombophlebitis in pregnancy,ICD10CM,thrombophlebitis
+35207312,G08,Intracranial and intraspinal phlebitis and thrombophlebitis,ICD10CM,thrombophlebitis
+35207884,I80.3,"Phlebitis and thrombophlebitis of lower extremities, unspecified",ICD10CM,thrombophlebitis
+35207885,I80.8,Phlebitis and thrombophlebitis of other sites,ICD10CM,thrombophlebitis
+35207886,I80.9,Phlebitis and thrombophlebitis of unspecified site,ICD10CM,thrombophlebitis
+35207889,I82.1,Thrombophlebitis migrans,ICD10CM,thrombophlebitis
+35210369,O87.0,Superficial thrombophlebitis in the puerperium,ICD10CM,thrombophlebitis
+45533506,I80.02,Phlebitis and thrombophlebitis of superficial vessels of left lower extremity,ICD10CM,thrombophlebitis
+45533507,I80.222,Phlebitis and thrombophlebitis of left popliteal vein,ICD10CM,thrombophlebitis
+45534178,O22.21,"Superficial thrombophlebitis in pregnancy, first trimester",ICD10CM,thrombophlebitis
+45538449,I80.11,Phlebitis and thrombophlebitis of right femoral vein,ICD10CM,thrombophlebitis
+45538450,I80.221,Phlebitis and thrombophlebitis of right popliteal vein,ICD10CM,thrombophlebitis
+45539096,O22.23,"Superficial thrombophlebitis in pregnancy, third trimester",ICD10CM,thrombophlebitis
+45543221,I80.212,Phlebitis and thrombophlebitis of left iliac vein,ICD10CM,thrombophlebitis
+45543222,I80.239,Phlebitis and thrombophlebitis of unspecified tibial vein,ICD10CM,thrombophlebitis
+45543223,I80.291,Phlebitis and thrombophlebitis of other deep vessels of right lower extremity,ICD10CM,thrombophlebitis
+45543224,I80.292,Phlebitis and thrombophlebitis of other deep vessels of left lower extremity,ICD10CM,thrombophlebitis
+45543225,I80.293,"Phlebitis and thrombophlebitis of other deep vessels of lower extremity, bilateral",ICD10CM,thrombophlebitis
+45543226,I80.299,Phlebitis and thrombophlebitis of other deep vessels of unspecified lower extremity,ICD10CM,thrombophlebitis
+45548079,I80.202,Phlebitis and thrombophlebitis of unspecified deep vessels of left lower extremity,ICD10CM,thrombophlebitis
+45557593,I80.10,Phlebitis and thrombophlebitis of unspecified femoral vein,ICD10CM,thrombophlebitis
+45557594,I80.219,Phlebitis and thrombophlebitis of unspecified iliac vein,ICD10CM,thrombophlebitis
+45557595,I80.223,"Phlebitis and thrombophlebitis of popliteal vein, bilateral",ICD10CM,thrombophlebitis
+45558205,O22.20,"Superficial thrombophlebitis in pregnancy, unspecified trimester",ICD10CM,thrombophlebitis
+45562403,I80.209,Phlebitis and thrombophlebitis of unspecified deep vessels of unspecified lower extremity,ICD10CM,thrombophlebitis
+45567231,I80.213,"Phlebitis and thrombophlebitis of iliac vein, bilateral",ICD10CM,thrombophlebitis
+45567232,I80.232,Phlebitis and thrombophlebitis of left tibial vein,ICD10CM,thrombophlebitis
+45572135,I80.201,Phlebitis and thrombophlebitis of unspecified deep vessels of right lower extremity,ICD10CM,thrombophlebitis
+45572136,I80.233,"Phlebitis and thrombophlebitis of tibial vein, bilateral",ICD10CM,thrombophlebitis
+45576920,I80.203,"Phlebitis and thrombophlebitis of unspecified deep vessels of lower extremities, bilateral",ICD10CM,thrombophlebitis
+45576921,I80.229,Phlebitis and thrombophlebitis of unspecified popliteal vein,ICD10CM,thrombophlebitis
+45581817,I80.211,Phlebitis and thrombophlebitis of right iliac vein,ICD10CM,thrombophlebitis
+45586632,I80.00,Phlebitis and thrombophlebitis of superficial vessels of unspecified lower extremity,ICD10CM,thrombophlebitis
+45591518,I80.01,Phlebitis and thrombophlebitis of superficial vessels of right lower extremity,ICD10CM,thrombophlebitis
+45591519,I80.12,Phlebitis and thrombophlebitis of left femoral vein,ICD10CM,thrombophlebitis
+45597038,O86.81,Puerperal septic thrombophlebitis,ICD10CM,thrombophlebitis
+45601085,I80.03,"Phlebitis and thrombophlebitis of superficial vessels of lower extremities, bilateral",ICD10CM,thrombophlebitis
+45601086,I80.13,"Phlebitis and thrombophlebitis of femoral vein, bilateral",ICD10CM,thrombophlebitis
+45605846,I80.231,Phlebitis and thrombophlebitis of right tibial vein,ICD10CM,thrombophlebitis
+45606541,O22.22,"Superficial thrombophlebitis in pregnancy, second trimester",ICD10CM,thrombophlebitis
+44821072,670.32,"Puerperal septic thrombophlebitis, delivered, with mention of postpartum complication",ICD9CM,thrombophlebitis
+44821964,451.81,Phlebitis and thrombophlebitis of iliac vein,ICD9CM,thrombophlebitis
+44821965,451.83,Phlebitis and thrombophlebitis of deep veins of upper extremities,ICD9CM,thrombophlebitis
+44822151,671.2,Superficial thrombophlebitis in pregnancy and the puerperium,ICD9CM,thrombophlebitis
+44823004,325,Phlebitis and thrombophlebitis of intracranial venous sinuses,ICD9CM,thrombophlebitis
+44823129,451,Phlebitis and thrombophlebitis,ICD9CM,thrombophlebitis
+44823130,453.1,Thrombophlebitis migrans,ICD9CM,thrombophlebitis
+44824268,451.2,"Phlebitis and thrombophlebitis of lower extremities, unspecified",ICD9CM,thrombophlebitis
+44824450,670.34,"Puerperal septic thrombophlebitis, postpartum condition or complication",ICD9CM,thrombophlebitis
+44824451,671.22,"Superficial thrombophlebitis complicating pregnancy and the puerperium, delivered, with mention of postpartum complication",ICD9CM,thrombophlebitis
+44825452,451.11,Phlebitis and thrombophlebitis of femoral vein (deep) (superficial),ICD9CM,thrombophlebitis
+44825453,451.82,Phlebitis and thrombophlebitis of superficial veins of upper extremities,ICD9CM,thrombophlebitis
+44827988,671.24,"Superficial thrombophlebitis complicating pregnancy and the puerperium, postpartum condition or complication",ICD9CM,thrombophlebitis
+44832401,451.89,Phlebitis and thrombophlebitis of other sites,ICD9CM,thrombophlebitis
+44832402,451.9,Phlebitis and thrombophlebitis of unspecified site,ICD9CM,thrombophlebitis
+44833586,451.1,Phlebitis and thrombophlebitis of deep vessels of lower extremities,ICD9CM,thrombophlebitis
+44833587,451.8,Phlebitis and thrombophlebitis of other sites,ICD9CM,thrombophlebitis
+44834752,451.19,"Phlebitis and thrombophlebitis of deep veins of lower extremities, other",ICD9CM,thrombophlebitis
+44834936,671.21,"Superficial thrombophlebitis complicating pregnancy and the puerperium, delivered, with or without mention of antepartum condition",ICD9CM,thrombophlebitis
+44836132,671.23,"Superficial thrombophlebitis complicating pregnancy and the puerperium, antepartum condition or complication",ICD9CM,thrombophlebitis
+44837122,451.84,"Phlebitis and thrombophlebitis of upper extremities, unspecified",ICD9CM,thrombophlebitis
+45890963,670.3,Puerperal septic thrombophlebitis,ICD9CM,thrombophlebitis
+77310,266267005,Deep vein phlebitis and thrombophlebitis of the leg,SNOMED,thrombophlebitis
+192981,47780009,Superficial thrombophlebitis complicating pregnancy AND/OR puerperium,SNOMED,thrombophlebitis
+313219,195394007,Phlebitis and thrombophlebitis,SNOMED,thrombophlebitis
+316137,276494008,Phlebitis and/or thrombophlebitis of iliac vein,SNOMED,thrombophlebitis
+318137,192753009,Phlebitis and thrombophlebitis of intracranial sinuses,SNOMED,thrombophlebitis
+319054,95450003,Thrombophlebitis of upper extremities,SNOMED,thrombophlebitis
+320741,64156001,Thrombophlebitis,SNOMED,thrombophlebitis
+433218,95451004,Thrombophlebitis of superficial veins of upper extremities,SNOMED,thrombophlebitis
+435331,200226001,Superficial thrombophlebitis in pregnancy and the puerperium with antenatal complication,SNOMED,thrombophlebitis
+435332,200227005,Superficial thrombophlebitis in pregnancy and the puerperium with postnatal complication,SNOMED,thrombophlebitis
+439094,200224003,Superficial thrombophlebitis in pregnancy and the puerperium - delivered,SNOMED,thrombophlebitis
+439095,267283002,Superficial thrombophlebitis in pregnancy and the puerperium - delivered with postnatal complication,SNOMED,thrombophlebitis
+439314,195410000,Thrombophlebitis of the femoral vein,SNOMED,thrombophlebitis
+439838,31268005,Thrombophlebitis migrans,SNOMED,thrombophlebitis
+440750,95452006,Thrombophlebitis of deep veins of upper extremities,SNOMED,thrombophlebitis
+442058,200222004,Superficial thrombophlebitis in pregnancy and the puerperium,SNOMED,thrombophlebitis
+444055,40283005,Thrombophlebitis of superficial veins of lower extremity,SNOMED,thrombophlebitis
+444097,46253008,Thrombophlebitis of lower extremities,SNOMED,thrombophlebitis
+602583,1.04E+17,Right peroneal vein thrombophlebitis,SNOMED,thrombophlebitis
+602592,9.62E+17,Left peroneal vein thrombophlebitis,SNOMED,thrombophlebitis
+607311,1149472000,Thrombophlebitis of bilateral lower limbs in pregnancy,SNOMED,thrombophlebitis
+607312,1149473005,Thrombophlebitis of bilateral lower limbs in puerperium,SNOMED,thrombophlebitis
+608903,1.60E+16,Thrombophlebitis of right axillary vein,SNOMED,thrombophlebitis
+763149,4.37E+14,Thrombophlebitis of superior anastomotic vein,SNOMED,thrombophlebitis
+764708,5.48E+12,Thrombophlebitis of straight sinus,SNOMED,thrombophlebitis
+764710,5.49E+12,Thrombophlebitis of transverse sinus,SNOMED,thrombophlebitis
+764712,5.50E+12,Thrombophlebitis of internal cerebral vein,SNOMED,thrombophlebitis
+764714,5.51E+12,Thrombophlebitis of sigmoid sinus,SNOMED,thrombophlebitis
+764715,5.52E+12,Thrombophlebitis of internal jugular vein,SNOMED,thrombophlebitis
+764716,5.53E+12,Thrombophlebitis of basal vein of Rosenthal,SNOMED,thrombophlebitis
+3520006,5.88E+14,Thrombophlebitis of a superficial leg vein NOS,SNOMED,thrombophlebitis
+3535803,6.11E+14,Superficial phlebitis and thrombophlebitis of the leg NOS,SNOMED,thrombophlebitis
+3535977,6.14E+14,Superficial thrombophlebitis in pregnancy and the puerperium NOS,SNOMED,thrombophlebitis
+3541206,6.90E+14,Other phlebitis and thrombophlebitis,SNOMED,thrombophlebitis
+3541382,6.93E+14,Phlebitis or thrombophlebitis of central nervous system venous sinus NOS,SNOMED,thrombophlebitis
+3563929,5.87E+14,Thrombophlebitis of central nervous system venous sinus NOS,SNOMED,thrombophlebitis
+3573212,6.06E+14,Superficial thrombophlebitis in pregnancy and the puerperium unspecified,SNOMED,thrombophlebitis
+3655084,840713005,Phlebitis and thrombophlebitis of iliac vein,SNOMED,thrombophlebitis
+4041679,230222003,Septic thrombophlebitis of straight sinus,SNOMED,thrombophlebitis
+4041680,230223008,Septic thrombophlebitis of sigmoid sinus,SNOMED,thrombophlebitis
+4042396,16750002,Deep thrombophlebitis,SNOMED,thrombophlebitis
+4043901,230225001,Septic thrombophlebitis of great cerebral vein,SNOMED,thrombophlebitis
+4047634,230224002,Septic thrombophlebitis of cortical vein,SNOMED,thrombophlebitis
+4062261,200223009,Superficial thrombophlebitis in pregnancy and the puerperium unspecified,SNOMED,thrombophlebitis
+4065758,200230003,Superficial thrombophlebitis in pregnancy and the puerperium NOS,SNOMED,thrombophlebitis
+4069561,1748006,Thrombophlebitis of deep femoral vein,SNOMED,thrombophlebitis
+4085025,2477008,Superficial thrombophlebitis,SNOMED,thrombophlebitis
+4092406,24805007,Portal thrombophlebitis,SNOMED,thrombophlebitis
+4098706,26954004,Thrombophlebitis of superior sagittal sinus,SNOMED,thrombophlebitis
+4100223,192769002,Thrombophlebitis of central nervous system venous sinuses,SNOMED,thrombophlebitis
+4100224,192771002,Thrombophlebitis of superior longitudinal venous sinus,SNOMED,thrombophlebitis
+4100225,192772009,Thrombophlebitis lateral venous sinus,SNOMED,thrombophlebitis
+4100226,192773004,Thrombophlebitis of central nervous system venous sinus NOS,SNOMED,thrombophlebitis
+4104695,192770001,Thrombophlebitis of cavernous sinus,SNOMED,thrombophlebitis
+4105340,192774005,Phlebitis or thrombophlebitis of central nervous system venous sinus NOS,SNOMED,thrombophlebitis
+4109873,195397000,Superficial thrombophlebitis of short saphenous vein,SNOMED,thrombophlebitis
+4109877,195426004,Thrombophlebitis of the internal iliac vein,SNOMED,thrombophlebitis
+4109878,195431002,Phlebitis and thrombophlebitis NOS,SNOMED,thrombophlebitis
+4110337,195396009,Superficial thrombophlebitis of long saphenous vein,SNOMED,thrombophlebitis
+4110338,195401008,Thrombophlebitis of a superficial leg vein NOS,SNOMED,thrombophlebitis
+4110339,195412008,Thrombophlebitis of the anterior tibial vein,SNOMED,thrombophlebitis
+4110340,195413003,Thrombophlebitis of the dorsalis pedis vein,SNOMED,thrombophlebitis
+4110343,195427008,Thrombophlebitis of the external iliac vein,SNOMED,thrombophlebitis
+4110344,195429006,Phlebitis and thrombophlebitis of the iliac vein NOS,SNOMED,thrombophlebitis
+4111860,195402001,Superficial phlebitis and thrombophlebitis of the leg NOS,SNOMED,thrombophlebitis
+4111865,195415005,Deep vein thrombophlebitis of the leg unspecified,SNOMED,thrombophlebitis
+4111866,195418007,Phlebitis and thrombophlebitis of the leg NOS,SNOMED,thrombophlebitis
+4111868,195425000,Thrombophlebitis of the common iliac vein,SNOMED,thrombophlebitis
+4111869,195430001,Other phlebitis and thrombophlebitis NOS,SNOMED,thrombophlebitis
+4111871,195433004,Thrombophlebitis NOS,SNOMED,thrombophlebitis
+4112171,195411001,Thrombophlebitis of the popliteal vein,SNOMED,thrombophlebitis
+4112172,195414009,Thrombophlebitis of the posterior tibial vein,SNOMED,thrombophlebitis
+4112173,195417002,Deep vein phlebitis and thrombophlebitis of the leg NOS,SNOMED,thrombophlebitis
+4112175,195428003,Thrombophlebitis of the iliac vein unspecified,SNOMED,thrombophlebitis
+4116206,302879007,Septic thrombophlebitis of cavernous sinus,SNOMED,thrombophlebitis
+4119136,302880005,Septic thrombophlebitis of sagittal sinus,SNOMED,thrombophlebitis
+4119758,234037003,Superficial thrombophlebitis of basilic vein,SNOMED,thrombophlebitis
+4119759,234040003,Saphenous vein thrombophlebitis,SNOMED,thrombophlebitis
+4120115,234048005,Recurrent idiopathic thrombophlebitis,SNOMED,thrombophlebitis
+4120316,302878004,Intracranial septic thrombophlebitis,SNOMED,thrombophlebitis
+4121335,302881009,Septic thrombophlebitis of lateral sinus,SNOMED,thrombophlebitis
+4124855,234036007,Superficial thrombophlebitis of cephalic vein,SNOMED,thrombophlebitis
+4124859,234047000,Radiation thrombophlebitis,SNOMED,thrombophlebitis
+4135330,3168002,Thrombophlebitis of intracranial venous sinus,SNOMED,thrombophlebitis
+4141493,266266001,Superficial thrombophlebitis of leg,SNOMED,thrombophlebitis
+4141494,266268000,Other phlebitis and thrombophlebitis,SNOMED,thrombophlebitis
+4143293,308137006,Superficial thrombophlebitis in puerperium,SNOMED,thrombophlebitis
+4146460,308136002,Superficial thrombophlebitis in pregnancy,SNOMED,thrombophlebitis
+4167985,48248005,Thrombophlebitis of inferior sagittal sinus,SNOMED,thrombophlebitis
+4176614,42861008,Thrombophlebitis of iliac vein,SNOMED,thrombophlebitis
+4194609,312586003,Intracranial thrombophlebitis,SNOMED,thrombophlebitis
+4199475,51188005,Phlebitis AND/OR thrombophlebitis during OR resulting from a procedure,SNOMED,thrombophlebitis
+4203618,52496006,Thrombophlebitis of femoropopliteal vein,SNOMED,thrombophlebitis
+4205652,438483005,Thrombophlebitis of subclavian vein,SNOMED,thrombophlebitis
+4207616,312585004,"Venous thrombosis, phlebitis and thrombophlebitis",SNOMED,thrombophlebitis
+4216561,71719003,Thrombophlebitis of retinal vein,SNOMED,thrombophlebitis
+4217471,8166000,Thrombophlebitis of basilar sinus,SNOMED,thrombophlebitis
+4218759,72930009,Superficial migratory thrombophlebitis,SNOMED,thrombophlebitis
+4219620,82388009,"Thrombophlebitis following infusion, perfusion AND/OR transfusion",SNOMED,thrombophlebitis
+4221821,40198004,Thrombophlebitis of deep veins of lower extremity,SNOMED,thrombophlebitis
+4222152,83916000,Thrombophlebitis in puerperium,SNOMED,thrombophlebitis
+4230403,438646004,Thrombophlebitis of axillary vein,SNOMED,thrombophlebitis
+4235812,439731006,Septic thrombophlebitis,SNOMED,thrombophlebitis
+4250765,7387004,Thrombophlebitis of tibial vein,SNOMED,thrombophlebitis
+4277833,3681008,Thrombophlebitis of torcular Herophili,SNOMED,thrombophlebitis
+4285751,67486009,Pelvic thrombophlebitis in puerperium,SNOMED,thrombophlebitis
+4289731,69954004,Thrombophlebitis of breast,SNOMED,thrombophlebitis
+4308710,213219006,Thrombophlebitis as a complication of care,SNOMED,thrombophlebitis
+4308840,213310008,Thrombophlebitis after infusion,SNOMED,thrombophlebitis
+4316223,95445009,Thrombophlebitis of vena cava,SNOMED,thrombophlebitis
+4317290,95449003,Thrombophlebitis of pelvic vein,SNOMED,thrombophlebitis
+4318407,95447001,Thrombophlebitis of mesenteric vein,SNOMED,thrombophlebitis
+4319332,95461006,Thrombophlebitis of cerebral vein,SNOMED,thrombophlebitis
+4319459,95620003,Thrombophlebitis of the newborn,SNOMED,thrombophlebitis
+4338761,231847000,Orbital thrombophlebitis,SNOMED,thrombophlebitis
+35626336,770111009,Thrombophlebitis of dorsal venous arch of foot,SNOMED,thrombophlebitis
+37312148,789682008,Thrombophlebitis following transfusion,SNOMED,thrombophlebitis
+37312149,789681001,Thrombophlebitis following perfusion,SNOMED,thrombophlebitis
+37312158,789672007,Thrombophlebitis due to procedure,SNOMED,thrombophlebitis
+37312159,789671000,Thrombophlebitis during procedure,SNOMED,thrombophlebitis
+40257842,17513007,Thrombophlebitis of popliteal vein,SNOMED,thrombophlebitis
+40315993,155453005,Superficial venous thrombosis (& [leg]) or superficial thrombophlebitis,SNOMED,thrombophlebitis
+40315994,155454004,(Deep venous thrombosis of leg [& non-obstetric]) or (non-puerperal milk-leg) or (deep thrombophlebitis of leg),SNOMED,thrombophlebitis
+40315996,155456002,Thrombophlebitis migrans,SNOMED,thrombophlebitis
+40316035,155491005,Thrombophlebitis migrans,SNOMED,thrombophlebitis
+40319244,156267008,(Superficial thrombophlebitis) or (obstetric phlebitis),SNOMED,thrombophlebitis
+40345682,266327006,Superficial venous thrombosis (& [leg]) or superficial thrombophlebitis,SNOMED,thrombophlebitis
+40345683,266328001,(Deep venous thrombosis of leg [& non-obstetric]) or (non-puerperal milk-leg) or (deep thrombophlebitis of leg),SNOMED,thrombophlebitis
+40358607,267363001,(Superficial thrombophlebitis) or (obstetric phlebitis),SNOMED,thrombophlebitis
+40393110,200228000,Superficial thrombophlebitis in pregnancy,SNOMED,thrombophlebitis
+40393111,200229008,Superficial thrombophlebitis in the puerperium,SNOMED,thrombophlebitis
+40393632,195395008,Superficial vessel phlebitis &/or thrombophlebitis of the leg (& [saphenous vein]),SNOMED,thrombophlebitis
+40393636,195399002,Superficial thrombophlebitis of long saphenous vein,SNOMED,thrombophlebitis
+40393637,195400009,Superficial thrombophlebitis of short saphenous vein,SNOMED,thrombophlebitis
+40393642,195403006,(Deep vein phlebitis and thrombophlebitis of the leg) or (deep vein thrombosis),SNOMED,thrombophlebitis
+40393660,195420005,(Phlebitis and/or thrombophlebitis of iliac vein) or (other phlebitis and thrombophlebitis),SNOMED,thrombophlebitis
+40393676,195434005,Phlebitis and thrombophlebitis NOS,SNOMED,thrombophlebitis
+40394545,195627004,[X]Phlebitis and thrombophlebitis of other deep vessels of lower extremities,SNOMED,thrombophlebitis
+40429886,234038008,Superficial thrombophlebitis,SNOMED,thrombophlebitis
+40510802,312587007,Thrombophlebitis of iliac vein,SNOMED,thrombophlebitis
+40513368,31314003,Thrombophlebitis of cavernous venous sinus,SNOMED,thrombophlebitis
+40625988,77631001,Thrombophlebitis of saphenous vein,SNOMED,thrombophlebitis
+40630869,78682001,Thrombophlebitis of lateral venous sinus,SNOMED,thrombophlebitis
+42710054,449926001,Thrombophlebitis of superficial veins of lower leg,SNOMED,thrombophlebitis
+44784475,698627005,Postoperative phlebitis and thrombophlebitis of intracranial sinuses,SNOMED,thrombophlebitis
+44799042,4.56E+14,[X]Phlebitis and thrombophlebitis of other deep vessels of lower extremities,SNOMED,thrombophlebitis
+45757143,1.08E+16,Septic thrombophlebitis in puerperium,SNOMED,thrombophlebitis
+1553749,I26.93,Single subsegmental pulmonary embolism without acute cor pulmonale,ICD10CM,thromboembolism
+1553750,I26.94,Multiple subsegmental pulmonary emboli without acute cor pulmonale,ICD10CM,thromboembolism
+1553766,I82.451,Acute embolism and thrombosis of right peroneal vein,ICD10CM,thromboembolism
+1553767,I82.452,Acute embolism and thrombosis of left peroneal vein,ICD10CM,thromboembolism
+1553768,I82.453,"Acute embolism and thrombosis of peroneal vein, bilateral",ICD10CM,thromboembolism
+1553769,I82.459,Acute embolism and thrombosis of unspecified peroneal vein,ICD10CM,thromboembolism
+1553771,I82.461,Acute embolism and thrombosis of right calf muscular vein,ICD10CM,thromboembolism
+1553772,I82.462,Acute embolism and thrombosis of left calf muscular vein,ICD10CM,thromboembolism
+1553773,I82.463,"Acute embolism and thrombosis of calf muscular vein, bilateral",ICD10CM,thromboembolism
+1553774,I82.469,Acute embolism and thrombosis of unspecified calf muscular vein,ICD10CM,thromboembolism
+1553776,I82.551,Chronic embolism and thrombosis of right peroneal vein,ICD10CM,thromboembolism
+1553777,I82.552,Chronic embolism and thrombosis of left peroneal vein,ICD10CM,thromboembolism
+1553778,I82.553,"Chronic embolism and thrombosis of peroneal vein, bilateral",ICD10CM,thromboembolism
+1553779,I82.559,Chronic embolism and thrombosis of unspecified peroneal vein,ICD10CM,thromboembolism
+1553781,I82.561,Chronic embolism and thrombosis of right calf muscular vein,ICD10CM,thromboembolism
+1553782,I82.562,Chronic embolism and thrombosis of left calf muscular vein,ICD10CM,thromboembolism
+1553783,I82.563,"Chronic embolism and thrombosis of calf muscular vein, bilateral",ICD10CM,thromboembolism
+1553784,I82.569,Chronic embolism and thrombosis of unspecified calf muscular vein,ICD10CM,thromboembolism
+1569147,I26,Pulmonary embolism,ICD10CM,thromboembolism
+1569148,I26.0,Pulmonary embolism with acute cor pulmonale,ICD10CM,thromboembolism
+1569149,I26.9,Pulmonary embolism without acute cor pulmonale,ICD10CM,thromboembolism
+1569327,I74,Arterial embolism and thrombosis,ICD10CM,thromboembolism
+1569328,I74.1,Embolism and thrombosis of other and unspecified parts of aorta,ICD10CM,thromboembolism
+35207696,I23.6,"Thrombosis of atrium, auricular appendage, and ventricle as current complications following acute myocardial infarction",ICD10CM,thromboembolism
+35207797,I51.3,"Intracardiac thrombosis, not elsewhere classified",ICD10CM,thromboembolism
+35207861,I74.0,Embolism and thrombosis of abdominal aorta,ICD10CM,thromboembolism
+35207862,I74.2,Embolism and thrombosis of arteries of the upper extremities,ICD10CM,thromboembolism
+35207863,I74.3,Embolism and thrombosis of arteries of the lower extremities,ICD10CM,thromboembolism
+35207864,I74.4,"Embolism and thrombosis of arteries of extremities, unspecified",ICD10CM,thromboembolism
+35207865,I74.5,Embolism and thrombosis of iliac artery,ICD10CM,thromboembolism
+35207866,I74.8,Embolism and thrombosis of other arteries,ICD10CM,thromboembolism
+35207867,I74.9,Embolism and thrombosis of unspecified artery,ICD10CM,thromboembolism
+35207887,I81,Portal vein thrombosis,ICD10CM,thromboembolism
+35207891,I82.3,Embolism and thrombosis of renal vein,ICD10CM,thromboembolism
+35210370,O87.1,Deep phlebothrombosis in the puerperium,ICD10CM,thromboembolism
+45533441,I27.82,Chronic pulmonary embolism,ICD10CM,thromboembolism
+45533501,I75.012,Atheroembolism of left upper extremity,ICD10CM,thromboembolism
+45533508,I82.413,"Acute embolism and thrombosis of femoral vein, bilateral",ICD10CM,thromboembolism
+45533509,I82.439,Acute embolism and thrombosis of unspecified popliteal vein,ICD10CM,thromboembolism
+45533510,I82.491,Acute embolism and thrombosis of other specified deep vein of right lower extremity,ICD10CM,thromboembolism
+45533511,I82.591,Chronic embolism and thrombosis of other specified deep vein of right lower extremity,ICD10CM,thromboembolism
+45533512,I82.5Z1,Chronic embolism and thrombosis of unspecified deep veins of right distal lower extremity,ICD10CM,thromboembolism
+45533513,I82.5Z9,Chronic embolism and thrombosis of unspecified deep veins of unspecified distal lower extremity,ICD10CM,thromboembolism
+45533514,I82.701,Chronic embolism and thrombosis of unspecified veins of right upper extremity,ICD10CM,thromboembolism
+45533515,I82.702,Chronic embolism and thrombosis of unspecified veins of left upper extremity,ICD10CM,thromboembolism
+45533516,I82.711,Chronic embolism and thrombosis of superficial veins of right upper extremity,ICD10CM,thromboembolism
+45533517,I82.729,Chronic embolism and thrombosis of deep veins of unspecified upper extremity,ICD10CM,thromboembolism
+45533518,I82.819,Embolism and thrombosis of superficial veins of unspecified lower extremity,ICD10CM,thromboembolism
+45533519,I82.B21,Chronic embolism and thrombosis of right subclavian vein,ICD10CM,thromboembolism
+45533520,I82.C11,Acute embolism and thrombosis of right internal jugular vein,ICD10CM,thromboembolism
+45534180,O22.30,"Deep phlebothrombosis in pregnancy, unspecified trimester",ICD10CM,thromboembolism
+45538445,I74.10,Embolism and thrombosis of unspecified parts of aorta,ICD10CM,thromboembolism
+45538446,I74.11,Embolism and thrombosis of thoracic aorta,ICD10CM,thromboembolism
+45538451,I82.210,Acute embolism and thrombosis of superior vena cava,ICD10CM,thromboembolism
+45538452,I82.211,Chronic embolism and thrombosis of superior vena cava,ICD10CM,thromboembolism
+45538453,I82.402,Acute embolism and thrombosis of unspecified deep veins of left lower extremity,ICD10CM,thromboembolism
+45538454,I82.422,Acute embolism and thrombosis of left iliac vein,ICD10CM,thromboembolism
+45538455,I82.499,Acute embolism and thrombosis of other specified deep vein of unspecified lower extremity,ICD10CM,thromboembolism
+45538456,I82.622,Acute embolism and thrombosis of deep veins of left upper extremity,ICD10CM,thromboembolism
+45538457,I82.C29,Chronic embolism and thrombosis of unspecified internal jugular vein,ICD10CM,thromboembolism
+45543217,I75.021,Atheroembolism of right lower extremity,ICD10CM,thromboembolism
+45543229,I82.401,Acute embolism and thrombosis of unspecified deep veins of right lower extremity,ICD10CM,thromboembolism
+45543230,I82.512,Chronic embolism and thrombosis of left femoral vein,ICD10CM,thromboembolism
+45543231,I82.531,Chronic embolism and thrombosis of right popliteal vein,ICD10CM,thromboembolism
+45543232,I82.592,Chronic embolism and thrombosis of other specified deep vein of left lower extremity,ICD10CM,thromboembolism
+45543233,I82.623,"Acute embolism and thrombosis of deep veins of upper extremity, bilateral",ICD10CM,thromboembolism
+45543234,I82.712,Chronic embolism and thrombosis of superficial veins of left upper extremity,ICD10CM,thromboembolism
+45543235,I82.723,"Chronic embolism and thrombosis of deep veins of upper extremity, bilateral",ICD10CM,thromboembolism
+45543236,I82.811,Embolism and thrombosis of superficial veins of right lower extremity,ICD10CM,thromboembolism
+45543237,I82.A13,"Acute embolism and thrombosis of axillary vein, bilateral",ICD10CM,thromboembolism
+45543238,I82.A23,"Chronic embolism and thrombosis of axillary vein, bilateral",ICD10CM,thromboembolism
+45548080,I82.421,Acute embolism and thrombosis of right iliac vein,ICD10CM,thromboembolism
+45548081,I82.601,Acute embolism and thrombosis of unspecified veins of right upper extremity,ICD10CM,thromboembolism
+45548082,I82.629,Acute embolism and thrombosis of deep veins of unspecified upper extremity,ICD10CM,thromboembolism
+45548083,I82.713,"Chronic embolism and thrombosis of superficial veins of upper extremity, bilateral",ICD10CM,thromboembolism
+45548084,I82.90,Acute embolism and thrombosis of unspecified vein,ICD10CM,thromboembolism
+45548085,I82.A29,Chronic embolism and thrombosis of unspecified axillary vein,ICD10CM,thromboembolism
+45552786,I26.92,Saddle embolus of pulmonary artery without acute cor pulmonale,ICD10CM,thromboembolism
+45552847,I75.81,Atheroembolism of kidney,ICD10CM,thromboembolism
+45552851,I82.432,Acute embolism and thrombosis of left popliteal vein,ICD10CM,thromboembolism
+45552852,I82.442,Acute embolism and thrombosis of left tibial vein,ICD10CM,thromboembolism
+45552853,I82.A21,Chronic embolism and thrombosis of right axillary vein,ICD10CM,thromboembolism
+45552854,I82.C21,Chronic embolism and thrombosis of right internal jugular vein,ICD10CM,thromboembolism
+45557540,I26.02,Saddle embolus of pulmonary artery with acute cor pulmonale,ICD10CM,thromboembolism
+45557590,I74.19,Embolism and thrombosis of other parts of aorta,ICD10CM,thromboembolism
+45557597,I82.4Z1,Acute embolism and thrombosis of unspecified deep veins of right distal lower extremity,ICD10CM,thromboembolism
+45557598,I82.543,"Chronic embolism and thrombosis of tibial vein, bilateral",ICD10CM,thromboembolism
+45557599,I82.722,Chronic embolism and thrombosis of deep veins of left upper extremity,ICD10CM,thromboembolism
+45557600,I82.A19,Acute embolism and thrombosis of unspecified axillary vein,ICD10CM,thromboembolism
+45562404,I82.220,Acute embolism and thrombosis of inferior vena cava,ICD10CM,thromboembolism
+45562405,I82.431,Acute embolism and thrombosis of right popliteal vein,ICD10CM,thromboembolism
+45562406,I82.449,Acute embolism and thrombosis of unspecified tibial vein,ICD10CM,thromboembolism
+45562407,I82.523,"Chronic embolism and thrombosis of iliac vein, bilateral",ICD10CM,thromboembolism
+45562408,I82.541,Chronic embolism and thrombosis of right tibial vein,ICD10CM,thromboembolism
+45562409,I82.609,Acute embolism and thrombosis of unspecified veins of unspecified upper extremity,ICD10CM,thromboembolism
+45562410,I82.B12,Acute embolism and thrombosis of left subclavian vein,ICD10CM,thromboembolism
+45562411,I82.B22,Chronic embolism and thrombosis of left subclavian vein,ICD10CM,thromboembolism
+45562412,I82.C22,Chronic embolism and thrombosis of left internal jugular vein,ICD10CM,thromboembolism
+45567224,I75.013,Atheroembolism of bilateral upper extremities,ICD10CM,thromboembolism
+45567225,I75.023,Atheroembolism of bilateral lower extremities,ICD10CM,thromboembolism
+45567226,I75.029,Atheroembolism of unspecified lower extremity,ICD10CM,thromboembolism
+45567227,I76,Septic arterial embolism,ICD10CM,thromboembolism
+45567234,I82.409,Acute embolism and thrombosis of unspecified deep veins of unspecified lower extremity,ICD10CM,thromboembolism
+45567235,I82.493,"Acute embolism and thrombosis of other specified deep vein of lower extremity, bilateral",ICD10CM,thromboembolism
+45567236,I82.501,Chronic embolism and thrombosis of unspecified deep veins of right lower extremity,ICD10CM,thromboembolism
+45567237,I82.509,Chronic embolism and thrombosis of unspecified deep veins of unspecified lower extremity,ICD10CM,thromboembolism
+45567238,I82.522,Chronic embolism and thrombosis of left iliac vein,ICD10CM,thromboembolism
+45567239,I82.5Y1,Chronic embolism and thrombosis of unspecified deep veins of right proximal lower extremity,ICD10CM,thromboembolism
+45567240,I82.703,"Chronic embolism and thrombosis of unspecified veins of upper extremity, bilateral",ICD10CM,thromboembolism
+45567241,I82.812,Embolism and thrombosis of superficial veins of left lower extremity,ICD10CM,thromboembolism
+45567242,I82.91,Chronic embolism and thrombosis of unspecified vein,ICD10CM,thromboembolism
+45567243,I82.B11,Acute embolism and thrombosis of right subclavian vein,ICD10CM,thromboembolism
+45567244,I82.B23,"Chronic embolism and thrombosis of subclavian vein, bilateral",ICD10CM,thromboembolism
+45572083,I26.01,Septic pulmonary embolism with acute cor pulmonale,ICD10CM,thromboembolism
+45572084,I26.99,Other pulmonary embolism without acute cor pulmonale,ICD10CM,thromboembolism
+45572138,I82.4Y2,Acute embolism and thrombosis of unspecified deep veins of left proximal lower extremity,ICD10CM,thromboembolism
+45572139,I82.4Z2,Acute embolism and thrombosis of unspecified deep veins of left distal lower extremity,ICD10CM,thromboembolism
+45572140,I82.503,"Chronic embolism and thrombosis of unspecified deep veins of lower extremity, bilateral",ICD10CM,thromboembolism
+45572141,I82.532,Chronic embolism and thrombosis of left popliteal vein,ICD10CM,thromboembolism
+45572142,I82.542,Chronic embolism and thrombosis of left tibial vein,ICD10CM,thromboembolism
+45572143,I82.599,Chronic embolism and thrombosis of other specified deep vein of unspecified lower extremity,ICD10CM,thromboembolism
+45572144,I82.619,Acute embolism and thrombosis of superficial veins of unspecified upper extremity,ICD10CM,thromboembolism
+45572146,I82.A11,Acute embolism and thrombosis of right axillary vein,ICD10CM,thromboembolism
+45576917,I74.01,Saddle embolus of abdominal aorta,ICD10CM,thromboembolism
+45576918,I75.019,Atheroembolism of unspecified upper extremity,ICD10CM,thromboembolism
+45576922,I82.403,"Acute embolism and thrombosis of unspecified deep veins of lower extremity, bilateral",ICD10CM,thromboembolism
+45576923,I82.4Y3,"Acute embolism and thrombosis of unspecified deep veins of proximal lower extremity, bilateral",ICD10CM,thromboembolism
+45576924,I82.549,Chronic embolism and thrombosis of unspecified tibial vein,ICD10CM,thromboembolism
+45576925,I82.5Y9,Chronic embolism and thrombosis of unspecified deep veins of unspecified proximal lower extremity,ICD10CM,thromboembolism
+45576926,I82.612,Acute embolism and thrombosis of superficial veins of left upper extremity,ICD10CM,thromboembolism
+45576927,I82.890,Acute embolism and thrombosis of other specified veins,ICD10CM,thromboembolism
+45576928,I82.891,Chronic embolism and thrombosis of other specified veins,ICD10CM,thromboembolism
+45576929,I82.B13,"Acute embolism and thrombosis of subclavian vein, bilateral",ICD10CM,thromboembolism
+45577563,O22.32,"Deep phlebothrombosis in pregnancy, second trimester",ICD10CM,thromboembolism
+45581819,I82.291,Chronic embolism and thrombosis of other thoracic veins,ICD10CM,thromboembolism
+45581820,I82.411,Acute embolism and thrombosis of right femoral vein,ICD10CM,thromboembolism
+45581821,I82.443,"Acute embolism and thrombosis of tibial vein, bilateral",ICD10CM,thromboembolism
+45581822,I82.511,Chronic embolism and thrombosis of right femoral vein,ICD10CM,thromboembolism
+45581823,I82.5Y2,Chronic embolism and thrombosis of unspecified deep veins of left proximal lower extremity,ICD10CM,thromboembolism
+45581824,I82.5Z3,"Chronic embolism and thrombosis of unspecified deep veins of distal lower extremity, bilateral",ICD10CM,thromboembolism
+45581825,I82.602,Acute embolism and thrombosis of unspecified veins of left upper extremity,ICD10CM,thromboembolism
+45586576,I26.09,Other pulmonary embolism with acute cor pulmonale,ICD10CM,thromboembolism
+45586627,I75.022,Atheroembolism of left lower extremity,ICD10CM,thromboembolism
+45586634,I82.290,Acute embolism and thrombosis of other thoracic veins,ICD10CM,thromboembolism
+45586635,I82.412,Acute embolism and thrombosis of left femoral vein,ICD10CM,thromboembolism
+45586636,I82.4Z9,Acute embolism and thrombosis of unspecified deep veins of unspecified distal lower extremity,ICD10CM,thromboembolism
+45586637,I82.502,Chronic embolism and thrombosis of unspecified deep veins of left lower extremity,ICD10CM,thromboembolism
+45587287,O22.31,"Deep phlebothrombosis in pregnancy, first trimester",ICD10CM,thromboembolism
+45591515,I75.89,Atheroembolism of other site,ICD10CM,thromboembolism
+45591520,I82.593,"Chronic embolism and thrombosis of other specified deep vein of lower extremity, bilateral",ICD10CM,thromboembolism
+45591521,I82.5Z2,Chronic embolism and thrombosis of unspecified deep veins of left distal lower extremity,ICD10CM,thromboembolism
+45591522,I82.A22,Chronic embolism and thrombosis of left axillary vein,ICD10CM,thromboembolism
+45591523,I82.B19,Acute embolism and thrombosis of unspecified subclavian vein,ICD10CM,thromboembolism
+45591524,I82.C12,Acute embolism and thrombosis of left internal jugular vein,ICD10CM,thromboembolism
+45591525,I82.C23,"Chronic embolism and thrombosis of internal jugular vein, bilateral",ICD10CM,thromboembolism
+45592192,O22.33,"Deep phlebothrombosis in pregnancy, third trimester",ICD10CM,thromboembolism
+45596248,I74.09,Other arterial embolism and thrombosis of abdominal aorta,ICD10CM,thromboembolism
+45596250,I82.429,Acute embolism and thrombosis of unspecified iliac vein,ICD10CM,thromboembolism
+45596251,I82.433,"Acute embolism and thrombosis of popliteal vein, bilateral",ICD10CM,thromboembolism
+45596252,I82.441,Acute embolism and thrombosis of right tibial vein,ICD10CM,thromboembolism
+45596253,I82.492,Acute embolism and thrombosis of other specified deep vein of left lower extremity,ICD10CM,thromboembolism
+45596254,I82.521,Chronic embolism and thrombosis of right iliac vein,ICD10CM,thromboembolism
+45596255,I82.539,Chronic embolism and thrombosis of unspecified popliteal vein,ICD10CM,thromboembolism
+45596256,I82.709,Chronic embolism and thrombosis of unspecified veins of unspecified upper extremity,ICD10CM,thromboembolism
+45596257,I82.719,Chronic embolism and thrombosis of superficial veins of unspecified upper extremity,ICD10CM,thromboembolism
+45596258,I82.A12,Acute embolism and thrombosis of left axillary vein,ICD10CM,thromboembolism
+45596259,I82.C13,"Acute embolism and thrombosis of internal jugular vein, bilateral",ICD10CM,thromboembolism
+45601083,I75.011,Atheroembolism of right upper extremity,ICD10CM,thromboembolism
+45601088,I82.221,Chronic embolism and thrombosis of inferior vena cava,ICD10CM,thromboembolism
+45601089,I82.4Y1,Acute embolism and thrombosis of unspecified deep veins of right proximal lower extremity,ICD10CM,thromboembolism
+45601090,I82.533,"Chronic embolism and thrombosis of popliteal vein, bilateral",ICD10CM,thromboembolism
+45601091,I82.603,"Acute embolism and thrombosis of unspecified veins of upper extremity, bilateral",ICD10CM,thromboembolism
+45601092,I82.611,Acute embolism and thrombosis of superficial veins of right upper extremity,ICD10CM,thromboembolism
+45601093,I82.613,"Acute embolism and thrombosis of superficial veins of upper extremity, bilateral",ICD10CM,thromboembolism
+45601094,I82.621,Acute embolism and thrombosis of deep veins of right upper extremity,ICD10CM,thromboembolism
+45601095,I82.B29,Chronic embolism and thrombosis of unspecified subclavian vein,ICD10CM,thromboembolism
+45605789,I26.90,Septic pulmonary embolism without acute cor pulmonale,ICD10CM,thromboembolism
+45605848,I82.419,Acute embolism and thrombosis of unspecified femoral vein,ICD10CM,thromboembolism
+45605849,I82.423,"Acute embolism and thrombosis of iliac vein, bilateral",ICD10CM,thromboembolism
+45605850,I82.4Y9,Acute embolism and thrombosis of unspecified deep veins of unspecified proximal lower extremity,ICD10CM,thromboembolism
+45605851,I82.4Z3,"Acute embolism and thrombosis of unspecified deep veins of distal lower extremity, bilateral",ICD10CM,thromboembolism
+45605852,I82.513,"Chronic embolism and thrombosis of femoral vein, bilateral",ICD10CM,thromboembolism
+45605853,I82.519,Chronic embolism and thrombosis of unspecified femoral vein,ICD10CM,thromboembolism
+45605854,I82.529,Chronic embolism and thrombosis of unspecified iliac vein,ICD10CM,thromboembolism
+45605855,I82.5Y3,"Chronic embolism and thrombosis of unspecified deep veins of proximal lower extremity, bilateral",ICD10CM,thromboembolism
+45605856,I82.721,Chronic embolism and thrombosis of deep veins of right upper extremity,ICD10CM,thromboembolism
+45605857,I82.813,"Embolism and thrombosis of superficial veins of lower extremities, bilateral",ICD10CM,thromboembolism
+45605858,I82.C19,Acute embolism and thrombosis of unspecified internal jugular vein,ICD10CM,thromboembolism
+1571879,O88.2,Obstetric thromboembolism,ICD10CM,thromboembolism
+1571880,O88.21,Thromboembolism in pregnancy,ICD10CM,thromboembolism
+45553602,O88.212,"Thromboembolism in pregnancy, second trimester",ICD10CM,thromboembolism
+45572895,O88.23,Thromboembolism in the puerperium,ICD10CM,thromboembolism
+45582581,O88.213,"Thromboembolism in pregnancy, third trimester",ICD10CM,thromboembolism
+45587391,O88.211,"Thromboembolism in pregnancy, first trimester",ICD10CM,thromboembolism
+45601897,O88.219,"Thromboembolism in pregnancy, unspecified trimester",ICD10CM,thromboembolism
+45606658,O88.22,Thromboembolism in childbirth,ICD10CM,thromboembolism
+433832,200299000,Obstetric pulmonary thromboembolism,SNOMED,thromboembolism
+3544086,7.76E+14,Low risk of venous thromboembolism,SNOMED,thromboembolism
+3585359,7.76E+14,High risk of venous thromboembolism,SNOMED,thromboembolism
+3585360,7.76E+14,Moderate risk of venous thromboembolism,SNOMED,thromboembolism
+4121618,233935004,Pulmonary thromboembolism,SNOMED,thromboembolism
+4170620,274101000,Aortic thromboembolism,SNOMED,thromboembolism
+4210461,56238008,"Thromboembolism following infusion, perfusion AND/OR transfusion",SNOMED,thromboembolism
+4264734,60989005,Thromboembolism of renal arteries,SNOMED,thromboembolism
+4309475,213309003,Thromboembolism after infusion,SNOMED,thromboembolism
+4327889,429098002,Thromboembolism of vein,SNOMED,thromboembolism
+40306613,134356002,Thromboembolism - lesion,SNOMED,thromboembolism
+40315973,155435004,(Embolus &/or thrombosis of abdominal aorta) or (aortic thromboembolism),SNOMED,thromboembolism
+40345677,266322000,(Embolus &/or thrombosis of abdominal aorta) or (aortic thromboembolism),SNOMED,thromboembolism
+44783002,699035003,At low risk of venous thromboembolism,SNOMED,thromboembolism
+44784293,698363002,Postoperative thromboembolism of precerebral artery,SNOMED,thromboembolism
+44801872,5.09E+14,Low risk of venous thromboembolism,SNOMED,thromboembolism
+44801873,5.09E+14,Moderate risk of venous thromboembolism,SNOMED,thromboembolism
+44801874,5.09E+14,High risk of venous thromboembolism,SNOMED,thromboembolism
+45768887,707412000,Chronic pulmonary thromboembolism,SNOMED,thromboembolism
+45768888,707414004,Acute pulmonary thromboembolism,SNOMED,thromboembolism
+45771016,707413005,Chronic pulmonary thromboembolism without pulmonary hypertension,SNOMED,thromboembolism
+46272856,711293008,At moderate risk of venous thromboembolism,SNOMED,thromboembolism
+46272886,711328005,At high risk of venous thromboembolism,SNOMED,thromboembolism
